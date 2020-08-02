@@ -5,30 +5,29 @@
 ![issues-open](https://bitbucket.org/repo/ekyaeEE/images/2944199103-issues_open.png)
 
 # RATIONALE #
-
-* 
+* This repo collects technological tools and human insights inside an internal effort to produce audiovisual communications 
 * This repo is a living document that will grow and adapt over time
 
 ### What is this repository for? ###
 
 * Quick summary
-    - 
+    - Strategies, insights and learnings in audio_visual communications
 * Version 1.01
 
 ### How do I get set up? ###
 
 * Summary of set up
-    - 
+    - Since there is no 
 * Configuration
     - 
 * Dependencies
-    - 
+    -  Lots of tools needs lots of dependencies. There is no universal gobernance that applies to all
 * Database configuration
-    - 
+    - There is no database to CRUD, so, essentially verify our Trello board
 * How to run tests
-    - 
+    - There is no need to test anything here
 * Deployment instructions
-    - 
+    - No updates planned
 
 ### Source ###
 
@@ -45,27 +44,26 @@
 ### Contribution guidelines ###
 
 * Writing tests
-    - 
+    - There is no tests (at least) from inside this repository. Since all the material produced will be abroad this repo
 * Code review
-    - 
-* Other guidelines
-    - 
+    - There is no code to examine or verify.
+    - You can check our Trello board mentioned in a few paragraphs below
 
 ### Related repositories ###
 
 * Some repositories linked with this project:
-     - [XXXXXXXXXXXXXXXX](https://bitbucket.org/imhicihu/auvisual/src/)
+     - [Streaming](https://bitbucket.org/imhicihu/streaming/src/master)
      
 ### Who do I talk to? ###
 
-* Repo owner or admin
-    - Contact `imhicihu` at `gmail` dot `com`
+* ~~Repo owner or admin~~
+    ~~- Contact `imhicihu` at `gmail` dot `com`~~
 * Other community or team contact
     - Contact is _enable_ on the [board](https://bitbucket.org/imhicihu/auvisual/addon/trello/trello-board) of this repo. (You need a [Trello](https://trello.com/) account)
 
 ### Code of Conduct
 
-* Please, check our [Code of Conduct](https://bitbucket.org/imhicihu/auvisual/src/master/code_of_conduct.md)
+* Please, check our [Code of Conduct](https://bitbucket.org/imhicihu/auvisual/src/master/Code_of_conduct.md)
 
 ### Legal ###
 
