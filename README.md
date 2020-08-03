@@ -1,7 +1,5 @@
 ![stability-work_in_progress](https://bitbucket.org/repo/ekyaeEE/images/477405737-stability_work_in_progress.png)
 ![internaluse-green](https://bitbucket.org/repo/ekyaeEE/images/3847436881-internal_use_stable.png)
-![status-archived](https://bitbucket.org/repo/ekyaeEE/images/3278295154-status_archived.png)
-![issues-closed](https://bitbucket.org/repo/ekyaeEE/images/1555006384-issues_closed.png)
 ![issues-open](https://bitbucket.org/repo/ekyaeEE/images/2944199103-issues_open.png)
 
 # RATIONALE #
@@ -12,6 +10,7 @@
 
 * Quick summary
     - Strategies, insights and learnings in audio_visual communications
+    - ![graphics](https://bitbucket.org/repo/48bkkAE/images/3127751406-audio.jpg)
 * Version 1.01
 
 ### How do I get set up? ###
