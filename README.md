@@ -3,22 +3,22 @@
 ![issues-open](https://bitbucket.org/repo/ekyaeEE/images/2944199103-issues_open.png)
 
 # RATIONALE #
-* This repo collects technological tools and human insights inside an internal effort to produce audiovisual communications 
+* This repo collects technological tools and human insights inside an internal effort to produce, generate audiovisual communications to the community
 * This repo is a living document that will grow and adapt over time
 
 ### What is this repository for? ###
 
 * Quick summary
-    - Strategies, insights and learnings in audio_visual communications
+    - Strategies, insights and learnings in audio & visual communications
     - ![graphics](https://bitbucket.org/repo/48bkkAE/images/3127751406-audio.jpg)
 * Version 1.01
 
 ### How do I get set up? ###
 
 * Summary of set up
-    - Since there is no 
+    - In the beginning, you can check our _colophon_ (see below): lots of (open source) tools to convert analog data (_human voice_) to the digital realm
 * Configuration
-    - 
+    - Check up [colophon.md](https://bitbucket.org/imhicihu/auvisual/src/master/Colophon.md)
 * Dependencies
     -  Lots of tools needs lots of dependencies. There is no universal gobernance that applies to all
 * Database configuration
