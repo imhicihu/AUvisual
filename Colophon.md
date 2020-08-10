@@ -8,6 +8,7 @@
      - _Hosting_: Consorcio Saavedra 15
      - _Bandwidth_: Consorcio Saavedra 15
 * Software
+     - [Voice Record Pro](https://apps.apple.com/ar/app/voice-record-pro/id546983235): professional voice recorder for the iOS platform. There is an [Android](https://play.google.com/store/apps/details?id=ca.bejbej.voicerecordpro&hl=es) counterpart
      - [Forecast](https://overcast.fm/forecast): The podcast MP3 post-production tool designed, developed, and used by professional podcasters.
      - ![image](https://bitbucket.org/repo/48bkkAE/images/4006804565-forecast-screenshot.png)
      * [Audacity](http://www.audacityteam.org): sound edition. This software provides a feature of "noise reduction".
