@@ -20,7 +20,7 @@
 * Configuration
     - Check up [colophon.md](https://bitbucket.org/imhicihu/auvisual/src/master/Colophon.md)
 * Dependencies
-    -  Lots of tools needs lots of dependencies. There is no universal gobernance that applies to all
+    -  Lots of [tools](https://bitbucket.org/imhicihu/auvisual/src/master/Colophon.md) needs lots of dependencies. There is no universal gobernance that applies to all
 * Database configuration
     - There is no database to [CRUD](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete), so, essentially verify our [Trello board](https://bitbucket.org/imhicihu/auvisual/addon/trello/trello-board)
 * How to run tests
