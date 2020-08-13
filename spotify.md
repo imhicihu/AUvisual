@@ -16,7 +16,7 @@
 	- Megaphone
 	- Omny
 	- Pinecast
-	- PodBean
+	- PodBean (_preferred_)
 	- Podcaster.DE
 	- Podiant
 	- Podigee
@@ -32,5 +32,7 @@
 * Click `Get started`.
 * Paste in the link to your podcast's `RSS` feed.
 * We’ll now send a verification email to the address in your RSS feed. Copy the 8-digit code from that email and paste in the submit form.
+* ![podcast.png](https://bitbucket.org/repo/48bkkAE/images/3833361618-Podcast-Spotify-link-rss.png)
 * Add podcast info like the `category`, `language` and `country`.
 * It may take a couple hours for your public `RSS` feed to update, and for Spotify to recognize those updates.
+* Spotify's Podcast Technological specification can be seen [here](https://podcasters.spotify.com/terms/Spotify_Podcast_Delivery_Specification_v1.6.pdf)
