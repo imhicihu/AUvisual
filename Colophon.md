@@ -21,7 +21,8 @@
      - [AbePlayer](https://ableplayer.github.io/ableplayer/): video accesibility tool
      - [VideoJs](https://videojs.com/)
 * Online tools
-     - [libs.garden](https://libs.garden/): technical libraries searcher
+     - [Podcast publisher tools](https://search.google.com/devtools/podcast/preview): This tool verifies that a podcast is available in Google Podcasts, and creates a direct link for it.
+     - ~~[libs.garden](https://libs.garden/): technical libraries searcher~~
      - Check [Podcasts providers](https://bitbucket.org/imhicihu/auvisual/src/master/Podcasts_providers.md)
      
 * Documentation
