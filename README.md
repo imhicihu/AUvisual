@@ -46,7 +46,7 @@
     - There is no tests (at least) from inside this repository. Since all the material produced will be abroad this repo
 * Code review
     - There is no code to examine or verify.
-    - You can check our Trello board mentioned in a few paragraphs below
+    - You can check our [Trello board](https://bitbucket.org/imhicihu/auvisual/addon/trello/trello-board) mentioned in a few paragraphs below
 
 ### Related repositories ###
 
