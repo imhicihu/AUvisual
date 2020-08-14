@@ -6,4 +6,4 @@
 * Se verá esta pantalla
 - ![podcast.png](https://bitbucket.org/repo/48bkkAE/images/4131137286-Subir-podcast-a-Itunes-2.png)
 * Clic sobre `Podcasts connect`
-* Una vez dentro, pegar el enlace previamente copiado (párrafos arriba). Luego clic sobre `Validar`
+* Una vez dentro, pegar el enlace (`RSS Feed`) previamente copiado (obsérvese la línea #3). Luego clic sobre `Validar`
