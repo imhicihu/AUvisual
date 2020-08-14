@@ -5,3 +5,6 @@
 * suministrar etiquetas (tags) que reflejen el espíritu del podcast en cuestión. Un ejemplo puede encontrarse [aquí](https://soundcloud.com/wyssinstitute/sets/disruptive)
 * el formato sonoro debe estar codificado en formato `.mp3` de 192 kbps
 * especificar `idioma` (predominante) del material audio/visual
+* El canal `RSS Feed` debe seguir las [directivas v2.0](https://validator.w3.org/feed/docs/rss2.html)
+* El feed debe contener al menos un episodio
+* 
