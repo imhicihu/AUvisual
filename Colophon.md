@@ -15,8 +15,8 @@
      * [Wavosaur](http://www.wavosaur.com/): sound edition
      * [Acoustica Basic Edition](https://acondigital.com/products/acoustica-audio-editor/): sound edition
      * [Audiotool](https://www.audiotool.com/): sound edition
-     * [Blue Cat's FreqAnalyst](https://www.bluecataudio.com/Products/Bundle_FreewarePack/)  (frecuency audio analysis)
-     * [Blue Cat's Triple EQ](https://www.bluecataudio.com/Products/Bundle_FreewarePack/) (audio equalization)
+     * [Blue Cat's FreqAnalyst](https://www.bluecataudio.com/Products/Bundle_FreewarePack/): frequency audio analysis
+     * [Blue Cat's Triple EQ](https://www.bluecataudio.com/Products/Bundle_FreewarePack/): audio equalization
      - [Decibel X:dB Sound Level Meter](https://apps.apple.com/us/app/decibel-10-noise-db-meter-fft-frequency-analyzer/id448155923): It turns your iOS device into a professional sound level meter, precisely measures the sound pressure level (SPL) all around you. There is an [Android](https://play.google.com/store/apps/details?id=com.skypaw.decibel&hl=es_AR) counterpart
      - [AbePlayer](https://ableplayer.github.io/ableplayer/): video accesibility tool
      - [VideoJs](https://videojs.com/)
