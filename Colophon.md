@@ -24,6 +24,7 @@
      - [Podcast publisher tools](https://search.google.com/devtools/podcast/preview): This tool verifies that a podcast is available in Google Podcasts, and creates a direct link for it.
      - ~~[libs.garden](https://libs.garden/): technical libraries searcher~~
      - Check [Podcasts providers](https://bitbucket.org/imhicihu/auvisual/src/master/Podcasts_providers.md)
+     - [iTunes link maker](https://linkmaker.itunes.apple.com/en-us)
      
 * Documentation
      - [Accessibility information for podcasters](https://kb.iu.edu/d/awuz)
