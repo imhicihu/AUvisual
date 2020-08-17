@@ -5,12 +5,12 @@
 # RATIONALE #
 * This repo collects technological tools and human insights inside an internal effort to produce, generate audiovisual communications to the community
 * This repo is a living document that will grow and adapt over time
+- ![graphics](https://bitbucket.org/repo/48bkkAE/images/328499603-podcast.jpg)
 
 ### What is this repository for? ###
 
 * Quick summary
     - Strategies, insights and learnings in audio & visual communications
-    - ![graphics](https://bitbucket.org/repo/48bkkAE/images/3127751406-audio.jpg)
 * Version 1.01
 
 ### How do I get set up? ###
