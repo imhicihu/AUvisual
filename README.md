@@ -5,7 +5,7 @@
 # RATIONALE #
 * This repo collects technological tools and human insights inside an internal effort to produce, generate audiovisual communications to the community
 * This repo is a living document that will grow and adapt over time
-![graphics](https://bitbucket.org/repo/48bkkAE/images/328499603-podcast.jpg)
+![graphics](https://bitbucket.org/repo/48bkkAE/images/2654894942-markers.jpg)
 ![exporting_session.jpg](https://bitbucket.org/repo/48bkkAE/images/1980281232-export_waves.jpg)
 
 
