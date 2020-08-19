@@ -6,5 +6,5 @@
 * el formato sonoro debe estar codificado en formato `.mp3` de 192 kbps
 * especificar `idioma` (predominante) del material audio/visual
 * El canal `RSS Feed` debe seguir las [directivas v2.0](https://validator.w3.org/feed/docs/rss2.html)
-* El feed debe contener al menos un episodio
-* 
+* El `RSS Feed` debe contener al menos un episodio
+* Dentro de cada episodio se pueden incrustar `markers` (se pueden agregar enlaces a otros sitios, pdf académicos, elementos audiovisuales relacionados con el tópico en cuestión, etc.)
