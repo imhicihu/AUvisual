@@ -7,6 +7,7 @@
 * This repo is a living document that will grow and adapt over time
 ![graphics](https://bitbucket.org/repo/48bkkAE/images/2654894942-markers.jpg)
 ![exporting_session.jpg](https://bitbucket.org/repo/48bkkAE/images/1980281232-export_waves.jpg)
+![podcast_producer.jpg](https://bitbucket.org/repo/48bkkAE/images/523479302-podcast_producer.jpg)
 
 
 ### What is this repository for? ###
