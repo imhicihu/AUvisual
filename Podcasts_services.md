@@ -1,6 +1,7 @@
-| Provider                | PodBean (free account)                                       | iVoox (free account) |      |
-| ----------------------- | ------------------------------------------------------------ | -------------------- | ---- |
-| Storage                 | 5 hours total                                                | unlimited            |      |
-| Bandwith                | 100GBÂ Monthly                                                | unlimited            |      |
-| RSS Feed                | Yes                                                          | Yes                  |      |
-| iTunes & Google Podcast | [Yes](https://help.podbean.com/support/solutions/articles/25000016157-making-my-podcast-available-in-the-google-podcast-app) | Yes                  |      |
+| Provider                | PodBean (free account)                                       | iVoox (free account) | [Soundcloud Basic](https://checkout.soundcloud.com/pro?ref=t992) (free account) | [TuneIn](https://tunein.com/podcasters/) |
+| ----------------------- | ------------------------------------------------------------ | -------------------- | ------------------------------------------------------------ | ---------------------------------------- |
+| Storage                 | 5 hours total                                                | unlimited            | 3 hours total                                                |                                          |
+| Bandwidth               | 100GB Monthly                                                | unlimited            | unlimited                                                    |                                          |
+| RSS Feed                | Yes                                                          | Yes                  | [Yes](https://soundcloud.com/settings/content)               | Yes                                      |
+| iTunes & Google Podcast | [Yes](https://help.podbean.com/support/solutions/articles/25000016157-making-my-podcast-available-in-the-google-podcast-app) | Yes                  | [Yes](https://help.soundcloud.com/hc/en-us/articles/115003451707-Submitting-your-RSS-feed-to-iTunes) |                                          |
+
