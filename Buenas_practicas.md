@@ -1,5 +1,11 @@
 * Iconos & logotipos para insertar en los metadatos en archivos sonoros `mp3` o audiovisuales `mp4`
-* ~~ingresar~~ Incrustar metadatos en el archivo sonoro / visual
+	- tamaño: 
+		* mínimo: 1400 x 1400 pixels
+		* máximo: 3000 x 3000 pixels
+	- resolución: 72 dpi
+	- formato de archivo: .`JPEG` o .`PNG`
+    - especificación del espacio cromático: `RGB`
+* ~~ingresar~~ Incrustar metadatos en el archivo sonoro / visual 
 * verificar los requerimientos mínimos básicos de acuerdo a cada sitio de alojamiento de podcasts. _Cfr_. Soundcloud vs Apple Podcasts
 * suministrar una transcripción del _speech_ grabado; ¿razón? cumplir con reglas de accesibilidad. Mayor información sobre legislación argentina [aquí](https://www.argentina.gob.ar/justicia/derechofacil/leysimple/accesibilidad-paginas-internet)
 * suministrar etiquetas (tags) que reflejen el espíritu del podcast en cuestión. Un ejemplo puede encontrarse [aquí](https://soundcloud.com/wyssinstitute/sets/disruptive)
@@ -8,3 +14,4 @@
 * El canal `RSS Feed` debe seguir las [directivas v2.0](https://validator.w3.org/feed/docs/rss2.html)
 * El `RSS Feed` debe contener al menos un episodio
 * Dentro de cada episodio se pueden incrustar `markers` (se pueden agregar enlaces a otros sitios, pdf académicos, elementos audiovisuales relacionados con el tópico en cuestión, etc.)
+* Podcasts no pueden contener materiales que infringen el derecho de otros (léase copyright, marcas registradas, etc.)
