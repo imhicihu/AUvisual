@@ -5,6 +5,7 @@
 	- resolución: 72 dpi
 	- formato de archivo: .`JPEG` o .`PNG`
     - especificación del espacio cromático: `RGB`
+* verificar si se deben agregar segundos al principio o final del podcast para dar lugar a publicidad institucional (ej.: CONICET)
 * ~~ingresar~~ Incrustar metadatos en el archivo sonoro / visual 
 * verificar los requerimientos mínimos básicos de acuerdo a cada sitio de alojamiento de podcasts. _Cfr_. Soundcloud vs Apple Podcasts
 * suministrar una transcripción del _speech_ grabado; ¿razón? cumplir con reglas de accesibilidad. Mayor información sobre legislación argentina [aquí](https://www.argentina.gob.ar/justicia/derechofacil/leysimple/accesibilidad-paginas-internet)
