@@ -1,3 +1,8 @@
+* verificar correo electrónico para su posterior uso en:
+	- servicio de podcast (hosting)
+	- incrustar el correo electrónico en el `RSS Feed` para su indexación, sea de parte de Google y de los servicios de distribución de contenidos digitales
+	- servicio de distribución en plataformas digitales (ej.: Apple Podcast & Spotify)
+	- redes sociales (ej.: Facebook). Los servicios de podcast ofrecen 
 * Iconos & logotipos para insertar en los metadatos en archivos sonoros `mp3` o audiovisuales `mp4`
 	- tamaño: 
 		* mínimo: 1400 x 1400 pixels
@@ -12,7 +17,8 @@
 * suministrar etiquetas (tags) que reflejen el espíritu del podcast en cuestión. Un ejemplo puede encontrarse [aquí](https://soundcloud.com/wyssinstitute/sets/disruptive)
 * el formato sonoro debe estar codificado en formato `.mp3` de 192 kbps
 * especificar `idioma` (predominante) del material audio/visual
-* El canal `RSS Feed` debe seguir las [directivas v2.0](https://validator.w3.org/feed/docs/rss2.html)
+* El canal `RSS Feed` debe seguir las [directivas v2.0](https://validator.w3.org/feed/docs/rss2.html). Debe incrustarse un correo electrónico en el `RSS Feed`
 * El `RSS Feed` debe contener al menos un episodio
 * Dentro de cada episodio se pueden incrustar `markers` (se pueden agregar enlaces a otros sitios, pdf académicos, elementos audiovisuales relacionados con el tópico en cuestión, etc.)
 * Podcasts no pueden contener materiales que infringen el derecho de otros (léase copyright, marcas registradas, etc.)
+* Debe establecerse una estrategia de periodicidad de los podcasts (léase comunicación a través del tiempo)
