@@ -2,5 +2,5 @@
 | ---------------- | --------- | --------- |
 | Podomatic        | published |           |
 | iVoox            |published           |           |
-|                  |           |           |
+| Podbeam                 |  published         |           |
 
