@@ -1,4 +1,4 @@
-### Inscripción y/o registro electrónico
+### Inscripción / registro electrónico
 * elegir qué correo electrónico para su posterior uso en el registro del:
 	- servicio de podcast (alojamiento)
 	- insertar dicho correo electrónico en el `RSS Feed` para su indexación, sea de parte de Google y de los servicios de distribución de contenidos digitales
@@ -24,6 +24,11 @@
 ### Accesibilidad
 * suministrar una transcripción del _speech_ grabado; ¿razón? cumplir con reglas de accesibilidad. Mayor información sobre legislación argentina [aquí](https://www.argentina.gob.ar/justicia/derechofacil/leysimple/accesibilidad-paginas-internet)
 
+### Periodicidad
+* una estrategia de comunicación a través del tiempo: 
+	- semanal?
+	- mensual?
+	- bimestral? 
 
 ### Especificaciones y requerimientos técnicas
 * suministrar etiquetas (tags) que reflejen el espíritu del podcast en cuestión. Un ejemplo puede encontrarse [aquí](https://soundcloud.com/wyssinstitute/sets/disruptive)
@@ -33,4 +38,3 @@
 * El `RSS Feed` debe contener al menos un episodio
 * Dentro de cada episodio se pueden incrustar `markers` (se pueden agregar enlaces a otros sitios, pdf académicos, elementos audiovisuales relacionados con el tópico en cuestión, etc.)
 * Podcasts no pueden contener materiales que infringen el derecho de otros (léase copyright, marcas registradas, etc.)
-* Debe establecerse una estrategia de periodicidad de los podcasts (léase comunicación a través del tiempo)
