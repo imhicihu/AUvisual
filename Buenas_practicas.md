@@ -37,4 +37,16 @@
 * El canal `RSS Feed` debe seguir las [directivas v2.0](https://validator.w3.org/feed/docs/rss2.html). Debe incrustarse un correo electrónico en el `RSS Feed`
 * El `RSS Feed` debe contener al menos un episodio
 * Dentro de cada episodio se pueden incrustar `markers` (se pueden agregar enlaces a otros sitios, pdf académicos, elementos audiovisuales relacionados con el tópico en cuestión, etc.)
-* Podcasts no pueden contener materiales que infringen el derecho de otros (léase copyright, marcas registradas, etc.)
+
+### Tono de la comunicación
+* Entrevista?
+* Conversación?
+* Académica?
+
+### Duración de los episodios
+* ¿5, 10, 15 minutos?
+* ¿Tiene una presentación/introducción o final que se repetirá en cada episodio?
+
+### Copyright
+* Episodios de podcasts no pueden contener materiales que infringen el derecho de otros (léase copyright, marcas registradas, etc.)
+
