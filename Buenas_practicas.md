@@ -6,7 +6,7 @@
 	- la difusión en las redes sociales (ej.: Facebook, Twitter). Los servicios de podcast "generalmente" ofrecen automáticamente la acción de promoción en dichas redes, cada vez que se van agregando episodios de podcast
 
 ### Iconos & logotipos
-* elegir íconos & logotipos para insertar en los metadatos en archivos sonoros `mp3` o audiovisuales `mp4`
+* diseñar íconos & iso/logotipos para insertar en los metadatos en archivos sonoros `mp3` o audiovisuales `mp4`
 	- tamaño: 
 		* mínimo: 1400 x 1400 pixels
 		* máximo: 3000 x 3000 pixels (Apple Podcast solicita estas dimensiones)
@@ -23,6 +23,11 @@
 
 ### Accesibilidad
 * suministrar una transcripción del _speech_ grabado; ¿razón? cumplir con reglas de accesibilidad. Mayor información sobre legislación argentina [aquí](https://www.argentina.gob.ar/justicia/derechofacil/leysimple/accesibilidad-paginas-internet)
+
+### Edición
+* Procesar `hisses` & `noise``
+* Nivelar el nivel de sendos canales de audio
+* Exportar como `mp3`-> 192 kbps
 
 ### Periodicidad
 * una estrategia de comunicación a través del tiempo: 
