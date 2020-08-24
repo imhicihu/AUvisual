@@ -25,7 +25,7 @@
 * suministrar una transcripción del _speech_ grabado; ¿razón? cumplir con reglas de accesibilidad. Mayor información sobre legislación argentina [aquí](https://www.argentina.gob.ar/justicia/derechofacil/leysimple/accesibilidad-paginas-internet)
 
 ### Edición
-* Procesar `hisses` & `noise``
+* Procesar `hisses` & `noise`
 * Nivelar el nivel de sendos canales de audio
 * Exportar como `mp3`-> 192 kbps
 
@@ -40,7 +40,7 @@
 * el formato sonoro debe estar codificado en formato `.mp3` de 192 kbps
 * especificar `idioma` (predominante) del material audio/visual
 * El canal `RSS Feed` debe seguir las [directivas v2.0](https://validator.w3.org/feed/docs/rss2.html). Debe incrustarse un correo electrónico en el `RSS Feed`
-* El `RSS Feed` debe contener al menos un episodio
+* El `RSS Feed` debe contener al menos 3 episodios
 * Dentro de cada episodio se pueden incrustar `markers` (se pueden agregar enlaces a otros sitios, pdf académicos, elementos audiovisuales relacionados con el tópico en cuestión, etc.)
 
 ### Tono de la comunicación
