@@ -52,6 +52,13 @@
 * ¿5, 10, 15 minutos?
 * ¿Tiene una presentación/introducción o final que se repetirá en cada episodio?
 
+### Varios
+* Audiencia?
+* Ofrece enlaces a otros sitios de interés?
+* Bibliografía (a consultar)
+* ¿Hay un tema o hilo predominante?
+* Ofrecer registrarse para recibir una notificación/alerta cada vez que se publica un nuevo podcast
+
 ### Copyright
 * Episodios de podcasts no pueden contener materiales que infringen el derecho de otros (léase copyright, marcas registradas, etc.)
 
