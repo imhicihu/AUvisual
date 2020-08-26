@@ -44,18 +44,23 @@
 * Dentro de cada episodio se pueden incrustar `markers` (se pueden agregar enlaces a otros sitios, pdf académicos, elementos audiovisuales relacionados con el tópico en cuestión, etc.)
 
 ### Tono de la comunicación
-* Entrevista?
-* Conversación?
-* Académica?
+* ¿Entrevista?
+* ¿Conversación?
+* ¿Académica?
 
 ### Duración de los episodios
 * ¿5, 10, 15 minutos?
 * ¿Tiene una presentación/introducción o final que se repetirá en cada episodio?
 
+### Legales
+* ¿Qué tipo de licencia se le aplicará?
+
 ### Varios
+* Nunca desestime el poder de un silencio en un párrafo
 * Audiencia?
 * Ofrece enlaces a otros sitios de interés?
 * Bibliografía (a consultar)
+* ¿Hay que dejar intersticios o espacios en blanco para auspicios/patrocinantes?
 * ¿Hay un tema o hilo predominante?
 * Ofrecer registrarse para recibir una notificación/alerta cada vez que se publica un nuevo podcast
 
