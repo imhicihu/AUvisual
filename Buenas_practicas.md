@@ -1,3 +1,9 @@
+### Nombre del podcast
+* ¿Qué nombre tendrá el podcast institucional?
+* ¿Qué tipo de nombre tendrán los episodios?
+* ¿Seguirán una lógica el nombre de los episodios?
+* Un episodio: ¿contendrá capítulos internos (Apple Podcast ofrece esa posibilidad)?
+
 ### Inscripción / registro electrónico
 * elegir qué correo electrónico para su posterior uso en el registro del:
 	- servicio de podcast (alojamiento)
@@ -10,11 +16,11 @@
 * diseñar íconos & iso/logotipos para insertar en los metadatos en archivos sonoros `mp3` o audiovisuales `mp4`
 	- tamaño: 
 		* mínimo: 1400 x 1400 pixels
-		* máximo: 3000 x 3000 pixels (Apple Podcast solicita estas dimensiones)
+		* máximo: 3000 x 3000 pixels ([Apple Podcast](https://help.apple.com/itc/podcasts_connect/#/itc1723472cb) solicita estas dimensiones)
 	- resolución: 72 dpi
 	- formato de archivo: .`JPEG` o .`PNG`
     - especificación del espacio cromático: `RGB`
-	- verificar si ofrecen los servicios de hosting las modalidades `Light & dark mode`
+	- verificar si ofrecen los servicios de hosting las modalidades `Light` & `dark` mode
 	
 ### Publicidad
 * verificar si se deben agregar segundos al principio o final del podcast para dar lugar a publicidad institucional (ej.: CONICET)
@@ -26,15 +32,15 @@
 * suministrar una transcripción del _speech_ grabado; ¿razón? cumplir con reglas de accesibilidad. Mayor información sobre legislación argentina [aquí](https://www.argentina.gob.ar/justicia/derechofacil/leysimple/accesibilidad-paginas-internet)
 
 ### Edición
-* Procesar `hisses` & `noise`
+* Procesar `hisses` & `noise reduction`
 * Nivelar el nivel de sendos canales de audio
-* Exportar como `mp3`-> 192 kbps
+* Exportar como `mp3`- 192 kbps
 
 ### Periodicidad
 * Estrategia de comunicación a través del tiempo: 
-	- semanal?
-	- mensual?
-	- bimestral?
+	- ¿semanal?
+	- ¿mensual?
+	- ¿bimestral?
 
 ### Especificaciones y requerimientos técnicas
 * suministrar etiquetas (tags) que reflejen el espíritu del podcast en cuestión. Un ejemplo puede encontrarse [aquí](https://soundcloud.com/wyssinstitute/sets/disruptive)
@@ -48,6 +54,7 @@
 * ¿Entrevista?
 * ¿Conversación?
 * ¿Académica?
+* ¿Documental?
 
 ### Duración de los episodios
 * ¿5, 10, 15 minutos?
