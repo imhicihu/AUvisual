@@ -4,15 +4,16 @@
 * ¿Seguirán una lógica el nombre de los episodios?
 * Un episodio: ¿contendrá capítulos internos (Apple Podcast ofrece esa posibilidad)?
 
-### Inscripción / registro electrónico
-* elegir qué correo electrónico para su posterior uso en el registro del:
+### Inscripción / registro electrónico a servicios en línea
+* elegir qué correo electrónico se utilizará para su uso en el registro de:
 	- servicio de podcast (alojamiento)
 	- insertar dicho correo electrónico en el `RSS Feed` para su indexación, sea de parte de Google y de los servicios de distribución de contenidos digitales
 	- para el registro de una cuenta en los servicios de distribución en plataformas digitales (ej.: Apple Podcast & Spotify)
 	- la difusión en las redes sociales (ej.: Facebook, Twitter). Los servicios de podcast "generalmente" ofrecen automáticamente la acción de promoción en dichas redes, cada vez que se van agregando episodios de podcast
 	- suscripción a lista de correo (ej.: [Mailchimp](https://mailchimp.com/))
 
-### Iconos & logotipos
+### Material gráfico: portada(s), íconos, logotipos
+* diseñar portadas para el podcast general y episodios (si los hubiera)
 * diseñar íconos & iso/logotipos para insertar en los metadatos en archivos sonoros `mp3` o audiovisuales `mp4`
 	- tamaño: 
 		* mínimo: 1400 x 1400 pixels
@@ -32,6 +33,7 @@
 * suministrar una transcripción del _speech_ grabado; ¿razón? cumplir con reglas de accesibilidad. Mayor información sobre legislación argentina [aquí](https://www.argentina.gob.ar/justicia/derechofacil/leysimple/accesibilidad-paginas-internet)
 
 ### Edición
+* Agregar `intro` y `cierre` a modo de introducción y clausura institucionl en cada uno de los podcasts
 * Procesar `hisses` & `noise reduction`
 * Nivelar el nivel de sendos canales de audio
 * Exportar como `mp3`- 192 kbps
@@ -41,6 +43,7 @@
 	- ¿semanal?
 	- ¿mensual?
 	- ¿bimestral?
+* Una vez establecida la periodicidad, establecer cronograma de grabación y  edición del material sonoro  
 
 ### Especificaciones y requerimientos técnicas
 * suministrar etiquetas (tags) que reflejen el espíritu del podcast en cuestión. Un ejemplo puede encontrarse [aquí](https://soundcloud.com/wyssinstitute/sets/disruptive)
@@ -63,9 +66,9 @@
 ### Legales
 * ¿Qué tipo de licencia se le aplicará?
 
-### Varios
+### Miscelánea
 * Nunca desestime el poder de un silencio en un párrafo
-* Audiencia?
+* ¿Audiencia?
 * Ofrece enlaces a otros sitios de interés?
 * Bibliografía (a consultar)
 * ¿Hay que dejar intersticios o espacios en blanco para auspicios/patrocinantes?
