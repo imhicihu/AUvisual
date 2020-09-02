@@ -22,6 +22,7 @@
 	- formato de archivo: .`JPEG` o .`PNG`
     - especificación del espacio cromático: `RGB`
 	- verificar si ofrecen los servicios de hosting las modalidades `Light` & `dark` mode
+* crear contenido afin para promocionar los podcasts en redes sociales
 	
 ### Publicidad
 * verificar si se deben agregar segundos al principio o final del podcast para dar lugar a publicidad institucional (ej.: CONICET)
@@ -46,7 +47,7 @@
 * Una vez establecida la periodicidad, establecer cronograma de grabación y  edición del material sonoro  
 
 ### Especificaciones y requerimientos técnicas
-* suministrar etiquetas (tags) que reflejen el espíritu del podcast en cuestión. Un ejemplo puede encontrarse [aquí](https://soundcloud.com/wyssinstitute/sets/disruptive)
+* suministrar etiquetas (`tags`) que reflejen el espíritu del podcast en cuestión. Un ejemplo puede encontrarse [aquí](https://soundcloud.com/wyssinstitute/sets/disruptive)
 * el formato sonoro debe estar codificado en formato `.mp3` de 192 kbps
 * especificar `idioma` (predominante) del material audio/visual
 * El canal `RSS Feed` debe seguir las [directivas v2.0](https://validator.w3.org/feed/docs/rss2.html). Debe incrustarse un correo electrónico en el `RSS Feed`
