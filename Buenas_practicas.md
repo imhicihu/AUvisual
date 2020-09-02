@@ -4,6 +4,7 @@
 	- insertar dicho correo electrónico en el `RSS Feed` para su indexación, sea de parte de Google y de los servicios de distribución de contenidos digitales
 	- para el registro de una cuenta en los servicios de distribución en plataformas digitales (ej.: Apple Podcast & Spotify)
 	- la difusión en las redes sociales (ej.: Facebook, Twitter). Los servicios de podcast "generalmente" ofrecen automáticamente la acción de promoción en dichas redes, cada vez que se van agregando episodios de podcast
+	- suscripción a lista de correo (ej.: [Mailchimp](https://mailchimp.com/))
 
 ### Iconos & logotipos
 * diseñar íconos & iso/logotipos para insertar en los metadatos en archivos sonoros `mp3` o audiovisuales `mp4`
@@ -30,10 +31,10 @@
 * Exportar como `mp3`-> 192 kbps
 
 ### Periodicidad
-* una estrategia de comunicación a través del tiempo: 
+* Estrategia de comunicación a través del tiempo: 
 	- semanal?
 	- mensual?
-	- bimestral? 
+	- bimestral?
 
 ### Especificaciones y requerimientos técnicas
 * suministrar etiquetas (tags) que reflejen el espíritu del podcast en cuestión. Un ejemplo puede encontrarse [aquí](https://soundcloud.com/wyssinstitute/sets/disruptive)
@@ -43,7 +44,7 @@
 * El `RSS Feed` debe contener al menos 3 episodios
 * Dentro de cada episodio se pueden incrustar `markers` (se pueden agregar enlaces a otros sitios, pdf académicos, elementos audiovisuales relacionados con el tópico en cuestión, etc.)
 
-### Tono de la comunicación
+### Tono de la comunicación del podcast
 * ¿Entrevista?
 * ¿Conversación?
 * ¿Académica?
