@@ -2,7 +2,7 @@
 * ¿Qué nombre tendrá el podcast institucional?
 * ¿Qué tipo de nombre tendrán los episodios?
 * ¿Seguirán una lógica el nombre de los episodios?
-* Un episodio: ¿contendrá capítulos internos (Apple Podcast ofrece esa posibilidad)?
+* Un episodio: ¿contendrá capítulos internos (Apple Podcast ofrece esa posibilidad)?. Un ejemplo puede verse/oírse [aquí](https://rework.fm/apps-without-code/)
 
 ### Inscripción / registro electrónico a servicios en línea
 * elegir qué correo electrónico se utilizará para su uso en el registro de:
