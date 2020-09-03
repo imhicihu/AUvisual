@@ -7,6 +7,16 @@
     - [Google Recorder](https://play.google.com/store/apps/details?id=com.google.android.apps.recorder&hl=en_US)
 * iOS
     - [Ferrite](https://apps.apple.com/es/app/ferrite/id1018780185)
+* Aplicación
+    - [Zencastr](https://zencastr.com/): 
+        - ideal para entrevistas
+        - sin necesidad de instalar nada
+        - necesita conexión a internet
+        - Una vez terminada la entrevista, se envía automáticamente a Dropbox o Google Drive
+            - Tutoriales:
+                - https://www.youtube.com/watch?v=ksoGFc8w8Mw
+                - https://www.youtube.com/watch?v=YKT6SK2BaoM
+                - https://www.youtube.com/watch?v=rySsnlNzaw8
 
 ### Grabación
 * Consideraciones técnicas
