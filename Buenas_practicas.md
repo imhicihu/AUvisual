@@ -65,7 +65,20 @@
 * ¿Tiene una presentación/introducción o final que se repetirá en cada episodio?
 
 ### Legales
-* ¿Qué tipo de licencia se le aplicará?
+* ¿Qué tipo de licencia se aplicará?
+	- Enlaces:
+		- [Choosing an Open Source License](https://blog.github.com/2013-07-15-choosing-an-open-source-license)
+	 	- [Choose a license](https://choosealicense.com)
+	 	- [The MIT License (MIT)](https://mit-license.org/)
+	 	- [MIT License generator](https://www.richie-bendall.ml/mit-license-generator/): Generate your own MIT License
+	   ![license](https://bitbucket.org/repo/ekyaeEE/images/1238371074-appendix.png)
+	 	- [Github OSS license](https://github.com/github/choosealicense.com)
+	 	- [Open source licenses](https://opensource.org/licenses)
+	 	- [Creative Commons licenses -kind-of](https://creativecommons.org/choose)
+	 	- [Comparison of free and open-source software licenses](https://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licenses)
+	 	- [Open Source Licenses Comparison Guide](https://itsfoss.com/open-source-licenses-explained)
+	 	- [Software Licenses in Plain English](https://tldrlegal.com)
+	 	- [Unlicense](https://unlicense.org/): liberar todo el contenido
 
 ### Miscelánea
 * Nunca desestime el poder de un silencio en un párrafo
