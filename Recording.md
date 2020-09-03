@@ -1,11 +1,12 @@
 ### Software
 
 * Android
-        - [Voice Recorder](https://play.google.com/store/apps/details?id=com.media.bestrecorder.audiorecorder&hl=en_US)
-        - [Smart Recorder](https://play.google.com/store/apps/details?id=com.andrwq.recorder)
-        - [Grabadora de voz - ASR](https://play.google.com/store/apps/details?id=com.nll.asr)
-        - [Google Recorder](https://play.google.com/store/apps/details?id=com.google.android.apps.recorder&hl=en_US)
+    - [Voice Recorder](https://play.google.com/store/apps/details?id=com.media.bestrecorder.audiorecorder&hl=en_US)
+    - [Smart Recorder](https://play.google.com/store/apps/details?id=com.andrwq.recorder)
+    - [Grabadora de voz - ASR](https://play.google.com/store/apps/details?id=com.nll.asr)
+    - [Google Recorder](https://play.google.com/store/apps/details?id=com.google.android.apps.recorder&hl=en_US)
 * iOS
+    - [Ferrite](https://apps.apple.com/es/app/ferrite/id1018780185)
 
 ### Grabación
 * Consideraciones técnicas
