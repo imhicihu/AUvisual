@@ -14,15 +14,21 @@
 * verifique su [velocidad de conexión](https://play.google.com/store/apps/details?id=org.zwanoo.android.speedtest&hl=en) de su dispositivo Android
 * verifique su [velocidad de conexión](https://apps.apple.com/us/app/speedtest-by-ookla/id300704847) de su dispositivo iOS
 
-
 #### Hardware
 * Si utilizará una computadora (portátil o de escritorio) en ambientes Windows, verifique:
 	- su [tarjeta de sonido y altavoces](https://www.onlinemictest.com/es/prueba-de-sonido/); 
-	- el [micrófono](https://www.onlinemictest.com/es/); en mac utilice este [test](https://www.onlinemictest.com/es/configuracion-del-microfono/mac-os-x/); en Ubuntu (Linux) utilice este [test](https://www.onlinemictest.com/es/configuracion-del-microfono/ubuntu/)
+	- el [micrófono](https://www.onlinemictest.com/es/); en mac utilice este [test](https://www.onlinemictest.com/es/configuracion-del-microfono/mac-os-x/); en Ubuntu (Linux) utilice [este](https://www.onlinemictest.com/es/configuracion-del-microfono/ubuntu/)
 	
 #### Software
-* Deshabilite _temporalmente_ 
-* Deshabilite _temporalmente_ todas las notificaciones del sistema, alarmas, Facebook, etc.
+* Deshabilite _temporalmente_ operaciones en 2do plano: defragmentación de discos, escaneado de virus, etc.
+* Deshabilite _temporalmente_ todas las notificaciones del sistema, alarmas, correos electrónicos, redes sociales, mensajería instantánea, etc. sea en su dispositivo móvil o computadora portátil/escritorio:
+	* en ambientes Windows siga este [procedimiento](https://helpdeskgeek.com/how-to/prevent-popup-notifications-from-appearing-on-your-windows-desktop/)
+	* en ambientes Mac, instale este software: [Muzzle](https://muzzleapp.com/)
+* Deshabilite _temporalmente_ la opción de compartir archivos, carpetas, impresoras
+* Deshabilite _temporalmente_ la opción de compartir su conexión de internet
 * Deshabilite _temporalmente_ cualquier actualización de definiciones de antivirus, de Microsoft Windows, dependencias de Linux, etc.
 * Cierre todos los programas que _estrictamente_ no esté utilizando durante su sesión de grabación de podcast
+
+#### Podcast
 * 
+* Sitúese en una habitación
