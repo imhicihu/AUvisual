@@ -17,7 +17,9 @@
 #### Hardware
 * Si utilizará una computadora (portátil o de escritorio) en ambientes Windows, verifique:
 	- su [tarjeta de sonido y altavoces](https://www.onlinemictest.com/es/prueba-de-sonido/); 
-	- el [micrófono](https://www.onlinemictest.com/es/); en mac utilice este [análisis](https://www.onlinemictest.com/es/configuracion-del-microfono/mac-os-x/); en Ubuntu (Linux) utilice esta [prueba](https://www.onlinemictest.com/es/configuracion-del-microfono/ubuntu/)
+	- el [micrófono](https://www.onlinemictest.com/es/); 
+		- en mac utilice este [análisis](https://www.onlinemictest.com/es/configuracion-del-microfono/mac-os-x/); 
+		- en Ubuntu (Linux) utilice esta [prueba](https://www.onlinemictest.com/es/configuracion-del-microfono/ubuntu/)
 	
 #### Software
 * Deshabilite _temporalmente_ operaciones en 2do plano: defragmentación de discos, escaneado de virus, etc.
