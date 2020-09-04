@@ -30,5 +30,4 @@
 * Cierre todos los programas que _estrictamente_ no esté utilizando durante su sesión de grabación de podcast
 
 #### Podcast
-* 
-* Sitúese en una habitación
+* Sitúese en una habitación con el menor nivel de ruido. Para saber su nivel de ruido ambiental, instale . Luego, confróntelo con esta [tabla de contaminación sonora](http://argentinambiental.com/notas/informes/ruido-ambiental-efectos-hombre/#:~:text=El%20Nivel%20de%20Ruido%20M%C3%A1ximo,auditivo%20acumulativo%20y%20no%20reversible.). 
