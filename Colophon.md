@@ -28,7 +28,8 @@
      - Check [Podcasts providers](https://bitbucket.org/imhicihu/auvisual/src/master/Podcasts_providers.md)
      - [iTunes link maker](https://linkmaker.itunes.apple.com/en-us)
      - [iTunes Widget builder](https://widgets.itunes.apple.com/): for Apple podcasts
-     
+* Management of data & processes
+     - [SourceTree](https://www.sourcetreeapp.com/): GIT control version    
 * Documentation
      - [Accessibility information for podcasters](https://kb.iu.edu/d/awuz)
      - [Sign language](https://www.w3.org/WAI/media/av/sign-languages/)
