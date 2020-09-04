@@ -8,7 +8,7 @@
      - _Hosting_: Consorcio Saavedra 15
      - _Bandwidth_: Consorcio Saavedra 15
 * Software
-     - Reccording
+     - Recording
           - [Voice Record Pro](https://apps.apple.com/ar/app/voice-record-pro/id546983235): professional voice recorder for the iOS platform. There is an [Android](https://play.google.com/store/apps/details?id=ca.bejbej.voicerecordpro&hl=es) counterpart
           - [Decibel X:dB Sound Level Meter](https://apps.apple.com/us/app/decibel-10-noise-db-meter-fft-frequency-analyzer/id448155923): It turns your iOS device into a professional sound level meter, precisely measures the sound pressure level (SPL) all around you. There is an [Android](https://play.google.com/store/apps/details?id=com.skypaw.decibel&hl=es_AR) counterpart
      - Metadata
