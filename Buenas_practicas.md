@@ -19,9 +19,9 @@
 		* mínimo: 1400 x 1400 pixels
 		* máximo: 3000 x 3000 pixels ([Apple Podcast](https://help.apple.com/itc/podcasts_connect/#/itc1723472cb) solicita estas dimensiones)
 	- resolución: 72 dpi
-	- formato de archivo: .`JPEG` o .`PNG`
+	- formato de archivo: `.JPEG` o .`PNG`
     - especificación del espacio cromático: `RGB`
-	- verificar si ofrecen los servicios de hosting las modalidades `Light` & `dark` mode
+	- adaptar los archivos gráficos a las modalidades `Light` & `dark mode`
 * crear contenido afin para promocionar los podcasts en redes sociales
 	
 ### Publicidad
