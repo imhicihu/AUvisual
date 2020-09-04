@@ -1,7 +1,7 @@
 ### Lista de verificación (previos a la grabación del podcast)
 
 #### Horarios
-* verificar [fecha y hora](https://www.timeanddate.com/) de su dispositivo (móvil o de escritorio)
+* verifique [fecha y hora](https://www.timeanddate.com/) de su dispositivo (móvil o de escritorio)
 * verifique [fecha y hora](https://www.timeanddate.com/) de la entrevista
 
 #### Conexiones
@@ -12,7 +12,7 @@
 
 #### Hardware
 * verifique si posee espacio disponible de disco sea en su computadora de escritorio/portátil o móvil
-* Si utilizará una computadora (portátil o de escritorio) en ambientes Windows, verifique:
+* Si utilizará una computadora (portátil o de escritorio) en ambientes Microsoft Windows, verifique:
 	- su [tarjeta de sonido y altavoces](https://www.onlinemictest.com/es/prueba-de-sonido/); 
 	- el [micrófono](https://www.onlinemictest.com/es/); 
 		- en mac utilice este [análisis](https://www.onlinemictest.com/es/configuracion-del-microfono/mac-os-x/); 
@@ -33,7 +33,13 @@
 * verifique el nivel de carga de la batería de su dispositivo móvil
 * verifique el nivel de carga de la batería de su computadora portátil
 * verifique que no tiene programado un corte de energía en su hogar
+* si está congestionada su voz, evite o posponga la grabación del podcast
+* si graba su podcast desde un dispositivo móvil, sitúelo frente a su boca, a unos 30 cms en dirección recta
+* evite utilizar collares, pulseras, papeles (a modo de _ayuda-memoria_). El movimiento de los mismos quedará registrado (y difíciles de obliterar!)
 * una manera de prever un corte de energía eléctrica, es poseer un [UPS](https://es.wikipedia.org/wiki/Sistema_de_alimentaci%C3%B3n_ininterrumpida)
 * Evite todo sonido intrusivo e intempestivos: deshabilite _temporalmente_ baby calls, teléfonos, timbres, alarmas, etc.
 * Grabe su participación en el podcast desde un _espacio_ con el menor nivel de ruido ambiental. Para conocerlo, instale [Decibel X:dB Sound Level Meter](https://apps.apple.com/us/app/decibel-10-noise-db-meter-fft-frequency-analyzer/id448155923) o [NIOSH Sound Level Meter 4+](https://apps.apple.com/us/app/niosh-sound-level-meter/id1096545820) para dispositivos iOS. Para teléfonos Android, instale esta [versión](https://play.google.com/store/apps/details?id=com.skypaw.decibel&hl=es_AR). Luego, confróntelo con esta [tabla de contaminación sonora](http://argentinambiental.com/notas/informes/ruido-ambiental-efectos-hombre/#:~:text=El%20Nivel%20de%20Ruido%20M%C3%A1ximo,auditivo%20acumulativo%20y%20no%20reversible.)
 * una vez que empezó la grabación (personal o entrevista), cuente mentalmente hasta `3`. Después inicie su _speech_
+
+#### Legal ####
+* All trademarks are the property of their respective owners.
