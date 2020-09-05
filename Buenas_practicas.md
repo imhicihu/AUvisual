@@ -35,7 +35,7 @@
 * suministrar una transcripción del _speech_ grabado; ¿razón? cumplir con reglas de accesibilidad. Mayor información sobre legislación argentina [aquí](https://www.argentina.gob.ar/justicia/derechofacil/leysimple/accesibilidad-paginas-internet)
 
 ### Edición
-* Agregar `intro` y `cierre` a modo de introducción y clausura institucionl en cada uno de los podcasts
+* Agregar `intro` y `cierre` a modo de introducción y clausura institucional en cada uno de los podcasts
 * Procesar `hisses` & `noise reduction`
 * Nivelar el nivel de sendos canales de audio
 * Exportar como `mp3`- 192 kbps
