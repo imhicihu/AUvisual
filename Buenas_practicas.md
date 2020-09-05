@@ -15,6 +15,7 @@
 ### Material gráfico: portada(s), íconos, logotipos
 * diseñar portadas para el podcast general y episodios (si los hubiera)
 * diseñar íconos & iso/logotipos para insertar en los metadatos en archivos sonoros `mp3` o audiovisuales `mp4`
+![graphics.jpg](https://bitbucket.org/repo/48bkkAE/images/523479302-podcast_producer.jpg)
 	- tamaño: 
 		* mínimo: 1400 x 1400 pixels
 		* máximo: 3000 x 3000 pixels ([Apple Podcast](https://help.apple.com/itc/podcasts_connect/#/itc1723472cb) solicita estas dimensiones)
