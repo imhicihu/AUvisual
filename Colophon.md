@@ -26,6 +26,7 @@
           - [AbePlayer](https://ableplayer.github.io/ableplayer/): video accesibility tool
           - [VideoJs](https://videojs.com/)
 * Online tools
+     - [iTunes RSS Generator](https://rss.itunes.apple.com/en-us)
      - Verifier
           - [Podcast publisher tools](https://search.google.com/devtools/podcast/preview): This tool verifies that a podcast is available in Google Podcasts, and creates a direct link for it.
           - [podStation Podcast Player](https://chrome.google.com/webstore/detail/podstation-podcast-player/bpcagekijmfcocgjlnnhpdogbplajjfn): Chrome extension
