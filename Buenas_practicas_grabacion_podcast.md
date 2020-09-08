@@ -41,9 +41,9 @@
 * Personal
 	- si está congestionada su voz, evite o posponga la grabación del podcast
 	- evite cualquier actividad física severa antes de la grabación del podcast
-	- trate de grabar su participación en el podcast, evitando cualquier interrupción (el tono de voz _usualmente_ cambia)
+	- trate de grabar su participación en el podcast, tratando de evitar cualquier interrupción: el tono de voz _usualmente_ cambia
 	* evite utilizar collares, pulseras, papeles (a modo de _ayuda-memoria_). El movimiento de los mismos quedará registrado (y difíciles de obliterar!)
-	* Evite todo sonido intrusivo e intempestivos: deshabilite _temporalmente_ baby calls, teléfonos, timbres, alarmas, etc.
+	* evite todo sonido intrusivo e intempestivo: deshabilite _temporalmente_ baby calls, teléfonos, timbres, alarmas de reloj, etc.
 	* Grabe su participación en el podcast desde un _espacio_ con el menor nivel de ruido ambiental. Para conocerlo, instale [Decibel X:dB Sound Level Meter](https://apps.apple.com/us/app/decibel-10-noise-db-meter-fft-frequency-analyzer/id448155923) o [NIOSH Sound Level Meter 4+](https://apps.apple.com/us/app/niosh-sound-level-meter/id1096545820) para dispositivos iOS. Para teléfonos Android, instale esta [aplicación](https://play.google.com/store/apps/details?id=com.skypaw.decibel&hl=es_AR). Una vez instalada la aplicación, mida su nivel de ruido. Luego, confróntelo con esta [tabla de contaminación sonora](http://argentinambiental.com/notas/informes/ruido-ambiental-efectos-hombre/#:~:text=El%20Nivel%20de%20Ruido%20M%C3%A1ximo,auditivo%20acumulativo%20y%20no%20reversible.). _The less, the better_
 	* una vez que empezó la grabación (personal o entrevista), cuente mentalmente hasta `3`. Después inicie su _speech_
 
