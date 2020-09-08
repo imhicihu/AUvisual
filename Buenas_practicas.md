@@ -3,7 +3,12 @@
 * ¿Qué tipo de nombre tendrán los episodios?
 * ¿Seguirán una lógica el nombre de los episodios?
 * Un episodio: ¿contendrá capítulos internos (Apple Podcast ofrece esa posibilidad)?. Un ejemplo puede verse/oírse [aquí](https://rework.fm/apps-without-code/)
-
+	- seriados (#1, #2, etc.)
+	- Historias/temas que empiezan y terminan
+	- Historias/temas seriados y distribuidos a través del tiempo
+* Una vez definido el nombre, hay que especificar estos tópicos:
+	- descripción del podcast
+	- palabras claves (_keywords_)
 ### Inscripción / registro electrónico a servicios en línea
 * elegir qué correo electrónico se utilizará para su uso en el registro de:
 	- servicio de podcast (alojamiento)
@@ -65,6 +70,12 @@
 * ¿5, 10, 15 minutos?
 * ¿Tiene una presentación/introducción o final que se repetirá en cada episodio?
 
+### Publicación
+* El primer podcast Puede tomar días desde que se
+* En algunos servicios de alojamiento de podcast, la primera vez es necesario publicar más de un episodio para empezar a ser
+	- [sindicado](https://www.monmagan.com/creadores/sindicacion-contenidos/)
+	- aprobado por Apple Podcast, Spotify, etc.
+	- aparecer en los buscadores de internet
 ### Legales
 * ¿Qué tipo de licencia se aplicará?
 	- Enlaces:
@@ -92,4 +103,3 @@
 
 ### Copyright
 * Episodios de podcasts no pueden contener materiales que infringen el derecho de otros (léase copyright, marcas registradas, etc.)
-
