@@ -99,7 +99,7 @@
 * Nunca desestime el poder de un silencio en un párrafo
 * ¿Audiencia?
 * Ofrece enlaces a otros sitios de interés?
-* Bibliografía (a consultar)
+* [Bibliografía](https://bitbucket.org/imhicihu/auvisual/src/master/Bibliography.md) (a consultar)
 * ¿Hay que dejar intersticios o espacios en blanco para auspicios/patrocinantes?
 * ¿Hay un tema o hilo predominante?
 * Ofrecer registrarse para recibir una notificación/alerta cada vez que se publica un nuevo podcast
