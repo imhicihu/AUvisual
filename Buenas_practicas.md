@@ -1,5 +1,5 @@
 ### Nombre del podcast
-* ¿Qué nombre tendrá el podcast institucional?
+* ¿Qué nombre tendrá el podcast (institucional)?
 * ¿Qué tipo de nombre tendrán los episodios?
 * ¿Seguirán una lógica el nombre de los episodios?
 * Un episodio: ¿contendrá capítulos internos (Apple Podcast ofrece esa posibilidad)?. Un ejemplo puede verse/oírse [aquí](https://rework.fm/apps-without-code/)
@@ -12,7 +12,7 @@
 	![graphics.jpg](https://bitbucket.org/repo/48bkkAE/images/4011034328-disruptive.jpg)
 ### Inscripción / registro electrónico a servicios en línea
 * elegir qué correo electrónico se utilizará para su uso en el registro de:
-	- servicio de podcast (alojamiento)
+	- [servicio de podcast](https://bitbucket.org/imhicihu/auvisual/src/master/Podcasts_services.md) (alojamiento)
 	- insertar dicho correo electrónico en el `RSS Feed` para su indexación, sea de parte de Google y de los servicios de distribución de contenidos digitales
 	- para el registro de una cuenta en los servicios de distribución en plataformas digitales (ej.: Apple Podcast & Spotify)
 	- la difusión en las redes sociales (ej.: Facebook, Twitter). Los servicios de podcast "generalmente" ofrecen automáticamente la acción de promoción en dichas redes, cada vez que se van agregando episodios de podcast
