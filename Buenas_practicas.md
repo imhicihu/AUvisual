@@ -71,6 +71,7 @@
 * ¿Tiene una presentación/introducción o final que se repetirá en cada episodio?
 
 ### Publicación
+* A cada uno de los episodios, deben incrustarse [metadatos](https://bitbucket.org/imhicihu/auvisual/src/master/Metadata.md) al archivo sonoro.
 * El primer podcast Puede tomar días desde que se
 * En algunos servicios de alojamiento de podcast, la primera vez es necesario publicar más de un episodio para empezar a ser
 	- [sindicado](https://www.monmagan.com/creadores/sindicacion-contenidos/)
