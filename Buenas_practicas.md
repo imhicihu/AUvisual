@@ -9,6 +9,7 @@
 * Una vez definido el nombre, hay que especificar estos tópicos:
 	- descripción del podcast
 	- palabras claves (_keywords_)
+	![graphics.jpg](https://bitbucket.org/repo/48bkkAE/images/4011034328-disruptive.jpg)
 ### Inscripción / registro electrónico a servicios en línea
 * elegir qué correo electrónico se utilizará para su uso en el registro de:
 	- servicio de podcast (alojamiento)
