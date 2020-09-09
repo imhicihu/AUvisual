@@ -29,10 +29,11 @@
 	- formato de archivo: `.JPEG` o .`PNG`
     - especificación del espacio cromático: `RGB`
 	- adaptar los archivos gráficos a las modalidades `Light` & `dark mode`
-* crear contenido afin para promocionar los podcasts en redes sociales
+* crear contenido afín para promocionar los podcasts en redes sociales
 	
 ### Publicidad
-* verificar si se deben agregar segundos al principio o final del podcast para dar lugar a publicidad institucional (ej.: CONICET)
+* ~~verificar~~ si se deben agregar segundos al principio o final del podcast para dar lugar a publicidad institucional (ej.: CONICET)
+* ¿hay alguna normativa (institucional) y legal (ver _Accesibilidad_) respecto al modo de introducir/presentar un podcast?
 
 ### Metadatos
 * ~~ingresar~~ Incrustar metadatos en el archivo sonoro / visual. Este ejercicio mejora su indexación en los buscadores, tanto más en los repositorios & bibliotecas digitales, amén de cumplir con normativas de registro de marcas & derechos de autor 
@@ -43,8 +44,8 @@
 ### Edición
 * Agregar `intro` y `cierre` a modo de introducción y clausura institucional en cada uno de los podcasts
 * Procesar `hisses` & `noise reduction`
-* Nivelar el nivel de sendos canales de audio
-* Exportar como `mp3`- 192 kbps
+* ~~Nivelar~~ [Normalizar](https://apps.apple.com/us/app/the-levelator/id1493326487?mt=12) el nivel de sendos canales de audio
+* Exportar como `mp3`- `192 kbps`
 
 ### Periodicidad
 * Estrategia de comunicación a través del tiempo: 
