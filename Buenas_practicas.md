@@ -36,7 +36,8 @@
 * ¿hay alguna normativa (institucional) y legal (ver _Accesibilidad_) respecto al modo de introducir/presentar un podcast?
 
 ### Metadatos
-* ~~ingresar~~ Incrustar metadatos en el archivo sonoro / visual. Este ejercicio mejora su indexación en los buscadores, tanto más en los repositorios & bibliotecas digitales, amén de cumplir con normativas de registro de marcas & derechos de autor 
+* ~~ingresar~~ Incrustar metadatos en el archivo sonoro / visual. Este ejercicio mejora su indexación en los buscadores, tanto más en los repositorios & bibliotecas digitales, amén de cumplir con normativas de registro de marcas & derechos de autor
+* suministrar recursos, gráficos, fotos, enlaces que son mencionados en el podcast
 
 ### Accesibilidad
 * suministrar una transcripción del _speech_ grabado; ¿razón? cumplir con reglas de accesibilidad. Mayor información sobre legislación argentina [aquí](https://www.argentina.gob.ar/justicia/derechofacil/leysimple/accesibilidad-paginas-internet)
