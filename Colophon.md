@@ -14,6 +14,8 @@
      - Metadata
           - [Forecast](https://overcast.fm/forecast): The podcast MP3 post-production tool designed, developed, and used by professional podcasters.
      ![image](https://bitbucket.org/repo/48bkkAE/images/4006804565-forecast-screenshot.png)
+     - ID3 editor
+          - [Kid3](https://kid3.kde.org/)
      - Sound edition
           * [The Levelator](https://apps.apple.com/us/app/the-levelator/id1493326487?mt=12): normalize audio
           * [Audacity](http://www.audacityteam.org): sound edition. This software provides a feature of "noise reduction".
