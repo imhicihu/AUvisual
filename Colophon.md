@@ -48,7 +48,5 @@
      - [Making Audio and Video Media Accessible](https://www.w3.org/WAI/media/av/)
      - [Web-Based Media Player Accessibility Comparison Table](http://kensgists.github.io/apt/)
      - [RSS Feed validator](https://validator.w3.org/feed/docs/rss2.html)
-     
 ## Legal ##
-
 * All trademarks are the property of their respective owners.
