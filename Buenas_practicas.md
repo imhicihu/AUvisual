@@ -30,6 +30,7 @@
     - especificación del espacio cromático: `RGB`
 	- adaptar los archivos gráficos a las modalidades `Light` & `dark mode`
 * crear contenido afín para promocionar los podcasts en redes sociales
+* chequear [Branding](https://bitbucket.org/imhicihu/branding/src/master/)
 	
 ### Publicidad
 * ~~verificar~~ si se deben agregar segundos al principio o final del podcast para dar lugar a publicidad institucional (ej.: CONICET)
