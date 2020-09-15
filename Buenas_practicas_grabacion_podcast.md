@@ -3,7 +3,7 @@
 #### Horarios
 * verifique [fecha y hora](https://www.timeanddate.com/) de su dispositivo (móvil o de escritorio)
 * verifique [fecha y hora](https://www.timeanddate.com/) de la entrevista
-* Si el entrevistado está en un huso horario diferente al suyo, verifíquelo utilizando esta [herramiento]](https://time.is/es/time_zones) para generar una _agenda_ recíproca
+* Si el entrevistado está en un huso horario diferente al suyo, verifíquelo utilizando esta [herramienta](https://time.is/es/time_zones) para generar una _agenda_ recíproca
 
 #### Conexiones
 * verifique la [velocidad de conexión](https://www.microsoft.com/en-us/store/p/speedtest-by-ookla/9nblggh4z1jc) de su computadora de escritorio o portátil Windows
