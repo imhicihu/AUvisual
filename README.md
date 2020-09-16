@@ -26,6 +26,7 @@
     - There is no database to [CRUD](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete), so, essentially verify our [Trello board](https://bitbucket.org/imhicihu/auvisual/addon/trello/trello-board)
 * Deployment instructions
     - Check our [Buenas prácticas](https://bitbucket.org/imhicihu/auvisual/src/master/Buenas_practicas.md) y [Buenas prácticas en grabación de podcasts](https://bitbucket.org/imhicihu/auvisual/src/master/Buenas_practicas.md)
+    - Check our [security & privacy issues](https://bitbucket.org/imhicihu/auvisual/src/master/security_privacy_issues.md)
 ![podcast_producer.jpg](https://bitbucket.org/repo/48bkkAE/images/523479302-podcast_producer.jpg)
 
 ### Source ###
