@@ -1,1 +1,5 @@
 <p><s>El Instituto Multidisciplinario de Historia y Ciencias Humanas, IMHICIhu  <break time="15ms"/>CONICET,  presenta <break time="95ms"/> su  pódcast.</s></p>
+
+<p><s><break time="195ms"/><prosody rate="+20%">¡Hola!, </prosody><break time="295ms"/>soy la Dra. Osorio, pertenezco a la sección Geografía, del Instituto Multidisciplinario de Historia y Ciencias Humanas y mi especialización <break time="95ms"/> son los sistemas de información geográfica (GIS).</s></p>
+
+<p><s><break time="595ms"/>Un sistema de información geográfica  es un marco para recopilar, gestionar y analizar datos.</s> <s><break time="495ms"/>Enraizado en la ciencia de la geografía, GIS integra muchos tipos de datos.</s> <s><break time="495ms"/>Analiza la ubicación espacial y organiza capas de información en visualizaciones, utilizando mapas y escenas en tres Dé.</s> <s><break time="495ms"/> Con esta capacidad única, GIS revela conocimientos más profundos sobre los datos, como patrones, relaciones y situaciones, lo que ayuda a los usuarios a tomar decisiones más inteligentes.</s></p>
