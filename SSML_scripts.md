@@ -12,6 +12,4 @@
 
 <p><s><break time="895ms"/>Permítanme invitarlos a escuchar a mi colega acerca de esta herramienta tecnológica, en una disertación celebrada en nuestra institución:</s></p>
 
-<p><s><break time="495ms"/>Hemos llegado al final de nuestro episodio. <break time="395ms"/>Los esperamos nuevamente en el próximo pódcast</s></p>
-
 <p><s><break time="495ms"/>Hemos llegado al final de nuestro episodio. <break time="395ms"/>Los esperamos nuevamente en el próximo pód cast del Instituto Multidisciplinario de Historia y Ciencias Humanas</s></p>
