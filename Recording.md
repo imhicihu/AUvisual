@@ -31,3 +31,6 @@
     * Una vez que haya finalizado su _parlamento_, cuente mentalmente hasta el número 3. Luego clic en el botón `rojo`
     * Acaba de registrar su participación.
     * Envíe dicho registro a este correo electrónico: `@gmail.com`
+    
+### Speech synthesis
+![graphics.jpg](https://bitbucket.org/repo/48bkkAE/images/122964169-sound_routing.jpg)
