@@ -1,7 +1,7 @@
 ## Technical requeriments ##
 
 * Hardware
-     - Macbook 13"
+     - ~~Macbook 13"~~
 	 - Macbook 15"
 	 - ~~Dell notebook 15"~~
      - Satechi Type-C Multiport Adapter (hub USB & Network access)
@@ -13,7 +13,7 @@
           - [Decibel X:dB Sound Level Meter](https://apps.apple.com/us/app/decibel-10-noise-db-meter-fft-frequency-analyzer/id448155923): It turns your iOS device into a professional sound level meter, precisely measures the sound pressure level (SPL) all around you. There is an [Android](https://play.google.com/store/apps/details?id=com.skypaw.decibel&hl=es_AR) counterpart
      - Metadata
           - [Forecast](https://overcast.fm/forecast): The podcast MP3 post-production tool designed, developed, and used by professional podcasters.
-     ![image](https://bitbucket.org/repo/48bkkAE/images/4006804565-forecast-screenshot.png)
+     ![image](https://bitbucket.org/repo/48bkkAE/images/2429225702-gis.jpg)
      - ID3 editor
           - [Kid3](https://kid3.kde.org/)
      - Sound edition
@@ -37,6 +37,7 @@
      - Hosting providers
           - Check [Podcasts providers](https://bitbucket.org/imhicihu/auvisual/src/master/Podcasts_providers.md)
      - ~~[libs.garden](https://libs.garden/): technical libraries searcher~~
+     - [IBM Watson Text to speech](https://www.ibm.com/cloud/watson-text-to-speech)
 
 * Management of data & processes
      - [SourceTree](https://www.sourcetreeapp.com/): GIT control version    
