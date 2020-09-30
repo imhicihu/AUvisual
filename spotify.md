@@ -3,7 +3,7 @@
 * Spotify doesn’t host podcasts. We must provide a link to an `RSS` feed in order to have your podcast on Spotify.
 * Podcast providers (supported by Spotify):
 	- Acast
-	- Anchor
+	- Anchor (_preferred_)
 	- Audioboom
 	- Backtracks
 	- Blubrry
@@ -16,7 +16,7 @@
 	- Megaphone
 	- Omny
 	- Pinecast
-	- PodBean (_preferred_)
+	- PodBean ~~(_preferred_)~~
 	- Podcaster.DE
 	- Podiant
 	- Podigee
