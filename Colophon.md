@@ -38,6 +38,7 @@
           - Check [Podcasts providers](https://bitbucket.org/imhicihu/auvisual/src/master/Podcasts_providers.md)
      - ~~[libs.garden](https://libs.garden/): technical libraries searcher~~
      - [IBM Watson Text to speech](https://www.ibm.com/cloud/watson-text-to-speech)
+     - [Amazon Poly](https://aws.amazon.com/polly/?nc1=h_ls): text to speech
 
 * Management of data & processes
      - [SourceTree](https://www.sourcetreeapp.com/): GIT control version    
