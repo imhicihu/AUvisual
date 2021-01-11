@@ -1,5 +1,7 @@
 ## Technical details
 * Podcasts
+	- Soundcloud
+		* [Podcasting](https://creators.soundcloud.com/podcasting)
 	- Spotify
 		* [Spotify for podcasters](https://podcasters.spotify.com/)	
 		* [Spotify Podcast specifications](https://podcasters.spotify.com/terms/Spotify_Podcast_Delivery_Specification_v1.6.pdf)
