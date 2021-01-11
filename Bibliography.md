@@ -1,5 +1,6 @@
 ## Technical details
 * Podcasts
+	- [Podcasting best practices](https://kb.iu.edu/d/awqo)
 	- Soundcloud
 		* [Podcasting](https://creators.soundcloud.com/podcasting)
 	- Spotify
