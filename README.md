@@ -27,6 +27,7 @@
 * Deployment instructions
     - Check our [Buenas prácticas](https://bitbucket.org/imhicihu/auvisual/src/master/Buenas_practicas.md) y [Buenas prácticas en grabación de podcasts](https://bitbucket.org/imhicihu/auvisual/src/master/Buenas_practicas.md)
     - Check our [security & privacy issues](https://bitbucket.org/imhicihu/auvisual/src/master/security_privacy_issues.md)
+![audacity.jpg](https://bitbucket.org/repo/48bkkAE/images/1801032688-cartoon.jpg)
 ![podcast_producer.jpg](https://bitbucket.org/repo/48bkkAE/images/2429225702-gis.jpg)
 
 ### Source ###
