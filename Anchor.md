@@ -1,1 +1,1 @@
-![anchor.jpg](https://bitbucket.org/repo/48bkkAE/images/3002319261-anchor.jpg)
+![anchor.jpg](images/3002319261-anchor.jpg)

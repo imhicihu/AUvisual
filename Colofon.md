@@ -25,10 +25,10 @@
      - [Podcast publisher tools](https://search.google.com/devtools/podcast/preview): This tool verifies that a podcast is available in Google Podcasts, and creates a direct link for it.
      - ~~[libs.garden](https://libs.garden/): technical libraries searcher~~
      - Revisar [Podcasts providers](https://bitbucket.org/imhicihu/auvisual/src/master/Podcasts_providers.md)   
-* Documentaci�n
+* Documentación
      - [Sign language](https://www.w3.org/WAI/media/av/sign-languages/)
      - [Transcripts](https://www.w3.org/WAI/media/av/transcripts/#checklist)
-     - [Media player accesibility](https://www.w3.org/WAI/media/av/player/)
+     - [Media player accessibility](https://www.w3.org/WAI/media/av/player/)
      - [Making Audio and Video Media Accessible](https://www.w3.org/WAI/media/av/)
      - [Web-Based Media Player Accessibility Comparison Table](http://kensgists.github.io/apt/)
      

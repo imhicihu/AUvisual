@@ -22,14 +22,14 @@
 #### Software
 * Deshabilite _temporalmente_ operaciones en 2do plano: defragmentación de discos, escaneado de virus, etc.
 * Deshabilite _temporalmente_ todas las notificaciones del sistema, alarmas, correos electrónicos, redes sociales, mensajería instantánea, etc. sea en su dispositivo móvil o computadora portátil/escritorio:
-	* en ambientes Windows siga este [procedimiento](https://helpdeskgeek.com/how-to/prevent-popup-notifications-from-appearing-on-your-windows-desktop/)
-	* en ambientes Mac, instale este software: [Muzzle](https://muzzleapp.com/)
+	* en ambientes _Windows_ siga este [procedimiento](https://helpdeskgeek.com/how-to/prevent-popup-notifications-from-appearing-on-your-windows-desktop/)
+	* en ambientes _Mac_, instale este software: [Muzzle](https://muzzleapp.com/)
 * Deshabilite _temporalmente_ la opción de compartir archivos, carpetas, impresoras
 * Deshabilite _temporalmente_ la opción de compartir su conexión de internet
 * Deshabilite _temporalmente_ cualquier actualización de definiciones de antivirus, actualizaciones de Microsoft Windows, dependencias de Linux, etc.
 * Cierre todos los programas que _estrictamente_ no esté utilizando durante su sesión de grabación de podcast
 
-#### [Grabación](https://bitbucket.org/imhicihu/auvisual/src/master/Recording.md)
+#### [Grabación](Recording.md)
 * Tecnología
 	* tenga a mano las contraseñas de los servicios en línea que utilizará (Zencastr, Zoom, Skype, Google Play, iCloud, Dropbox, etc.)
 	* verifique el nivel de carga de la batería de su dispositivo móvil
