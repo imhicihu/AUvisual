@@ -19,14 +19,14 @@
 * Summary of set up
     - In the beginning, you can check our _colophon_ (see below): lots of (open source) tools to convert analog data (_human voice_) to the digital realm
 * Configuration
-    - Check up [colophon.md](https://bitbucket.org/imhicihu/auvisual/src/master/Colophon.md)
+    - Check up [colophon.md](Colophon.md)
 * Dependencies
-    -  Lots of [tools](https://bitbucket.org/imhicihu/auvisual/src/master/Colophon.md) needs lots of dependencies. There is no universal gobernance that applies to all
+    -  Lots of [tools](Colophon.md) needs lots of dependencies. There is no universal gobernance that applies to all
 * Database configuration
-    - There is no database to [CRUD](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete), so, essentially verify our [Trello board](https://bitbucket.org/imhicihu/auvisual/addon/trello/trello-board)
+    - There is no database to [CRUD](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete)
 * Deployment instructions
-    - Check our [Buenas prácticas](https://bitbucket.org/imhicihu/auvisual/src/master/Buenas_practicas.md) y [Buenas prácticas en grabación de podcasts](https://bitbucket.org/imhicihu/auvisual/src/master/Buenas_practicas.md)
-    - Check our [security & privacy issues](https://bitbucket.org/imhicihu/auvisual/src/master/security_privacy_issues.md)
+    - Check our [Buenas prácticas](Buenas_practicas.md) y [Buenas prácticas en grabación de podcasts]([Buenas_practicas_grabacion_podcast.md))
+    - Check our [security & privacy issues](security_privacy_issues.md)
 ![audacity.jpg](https://bitbucket.org/repo/48bkkAE/images/1684545415-1801032688-cartoon.jpg)
 ![podcast_producer.jpg](https://bitbucket.org/repo/48bkkAE/images/2429225702-gis.jpg)
 
@@ -48,23 +48,15 @@
     - There is no tests (at least) from inside this repository. Since all the material produced will be abroad this repo
 * Code review
     - There is no code to examine or verify.
-    - You can check our [Trello board](https://bitbucket.org/imhicihu/auvisual/addon/trello/trello-board) mentioned in a few paragraphs below
 
 ### Related repositories ###
 
 * Some repositories linked with this project:
      - [Streaming](https://bitbucket.org/imhicihu/streaming/src/master)
-     
-### Who do I talk to? ###
-
-* ~~Repo owner or admin~~
-    ~~- Contact `imhicihu` at `gmail` dot `com`~~
-* Other community or team contact
-    - Contact is _enable_ on the [board](https://bitbucket.org/imhicihu/auvisual/addon/trello/trello-board) of this repo. (You need a [Trello](https://trello.com/) account)
 
 ### Code of Conduct
 
-* Please, check our [Code of Conduct](https://bitbucket.org/imhicihu/auvisual/src/master/Code_of_conduct.md)
+* Please, check our [Code of Conduct](Code_of_conduct.md)
 
 ### Legal ###
 
