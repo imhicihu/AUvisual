@@ -26,11 +26,11 @@
     * Instalar la aplicación en su dispositivo
     * Lanzar la aplicación
     * Clic en el botón `rojo`
-    * Cuente mentalmente hasta el número 3
-    * Empieze a grabar su _speech_
-    * Una vez que haya finalizado su _parlamento_, cuente mentalmente hasta el número 3. Luego clic en el botón `rojo`
+    * Cuente mentalmente hasta el número `3`
+    * Empiece a grabar su _speech_
+    * Una vez que haya finalizado su _parlamento_, cuente mentalmente hasta el número `3`. Luego clic en el botón `rojo`
     * Acaba de registrar su participación.
-    * Envíe dicho registro a este correo electrónico: `@gmail.com`
+    * Envíe dicho registro a este correo electrónico: `****@gmail.com`
     
 ### Speech synthesis
 * ![Speech_synthesis](images/122964169-sound_routing.jpg)
