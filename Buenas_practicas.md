@@ -2,17 +2,17 @@
 * ¿Qué nombre tendrá el podcast (institucional)?
 * ¿Qué tipo de nombre tendrán los episodios?
 * ¿Seguirán una lógica el nombre de los episodios?
-* Un episodio: ¿contendrá capítulos internos (Apple Podcast ofrece esa posibilidad)?. Un ejemplo puede verse/oírse [aquí](https://rework.fm/apps-without-code/)
+* Un episodio: ¿contendrá capítulos internos -Apple Podcast ofrece esa posibilidad-?. Un ejemplo puede verse/oírse [aquí](https://rework.fm/apps-without-code/)
 	- seriados (#1, #2, etc.)
 	- Historias/temas que empiezan y terminan
 	- Historias/temas seriados y distribuidos a través del tiempo
 * Una vez definido el nombre, hay que especificar estos tópicos:
 	- descripción del podcast
 	- palabras claves (_keywords_)
-	![graphics.jpg](https://bitbucket.org/repo/48bkkAE/images/4011034328-disruptive.jpg)
+	![graphics.jpg](images/4011034328-disruptive.jpg)
 ### Inscripción / registro electrónico a servicios en línea
 * elegir qué correo electrónico se utilizará para su uso en el registro de:
-	- [servicio de podcast](https://bitbucket.org/imhicihu/auvisual/src/master/Podcasts_services.md) (alojamiento)
+	- [servicio de podcast](Podcasts_services.md) (alojamiento)
 	- insertar dicho correo electrónico en el `RSS Feed` para su indexación, sea de parte de Google y de los servicios de distribución de contenidos digitales
 	- para el registro de una cuenta en los servicios de distribución en plataformas digitales (ej.: Apple Podcast & Spotify)
 	- la difusión en las redes sociales (ej.: Facebook, Twitter). Los servicios de podcast "generalmente" ofrecen automáticamente la acción de promoción en dichas redes, cada vez que se van agregando episodios de podcast
@@ -21,7 +21,7 @@
 ### Material gráfico: portada(s), íconos, logotipos
 * diseñar portadas para el podcast general y episodios (si los hubiera)
 * diseñar íconos & iso/logotipos para insertar en los metadatos en archivos sonoros `mp3` o audiovisuales `mp4`
-![graphics.jpg](https://bitbucket.org/repo/48bkkAE/images/523479302-podcast_producer.jpg)
+![graphics.jpg](images/523479302-podcast_producer.jpg)
 	- tamaño: 
 		* mínimo: 1400 x 1400 pixels
 		* máximo: 3000 x 3000 pixels ([Apple Podcast](https://help.apple.com/itc/podcasts_connect/#/itc1723472cb) solicita estas dimensiones)
@@ -30,7 +30,7 @@
     - especificación del espacio cromático: `RGB`
 	- adaptar los archivos gráficos a las modalidades `Light` & `dark mode`
 * crear contenido afín para promocionar los podcasts en redes sociales
-* chequear [Branding](https://bitbucket.org/imhicihu/branding/src/master/)
+* chequear [Branding](https://github.com/imhicihu/Branding)
 	
 ### Publicidad
 * ~~verificar~~ si se deben agregar segundos al principio o final del podcast para dar lugar a publicidad institucional (ej.: CONICET)
@@ -75,7 +75,7 @@
 * ¿Tiene una presentación/introducción o final que se repetirá en cada episodio?
 
 ### Publicación
-* A cada uno de los episodios, deben incrustarse [metadatos](https://bitbucket.org/imhicihu/auvisual/src/master/Metadata.md) al archivo sonoro.
+* A cada uno de los episodios, deben incrustarse [metadatos](Metadata.md) al archivo sonoro.
 * El podcast puede tomar horas o días desde su publicación. No hay una regla fija. Cada proveedor varía
 * En algunos servicios de alojamiento de podcast, la primera vez es necesario publicar más de un episodio para empezar a ser
 	- [sindicado](https://www.monmagan.com/creadores/sindicacion-contenidos/)
@@ -102,7 +102,7 @@
 * Nunca desestime el poder de un silencio en un párrafo
 * ¿Audiencia?
 * Ofrece enlaces a otros sitios de interés?
-* [Bibliografía](https://bitbucket.org/imhicihu/auvisual/src/master/Bibliography.md) (a consultar)
+* [Bibliografía](Bibliography.md) (a consultar)
 * ¿Hay que dejar intersticios o espacios en blanco para auspicios/patrocinantes?
 * ¿Hay un tema o hilo predominante?
 * Ofrecer registrarse para recibir una notificación/alerta cada vez que se publica un nuevo podcast
