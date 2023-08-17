@@ -1,4 +1,4 @@
-## Technical details
+### Technical details
 * Podcasts
 	- [Podcasting best practices](https://kb.iu.edu/d/awqo)
 	- Soundcloud
