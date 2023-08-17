@@ -1,4 +1,4 @@
-## Podcast providers
+### Podcast providers
 * [Spotify for podcasters](https://podcasters.spotify.com/)
 * [Google Podcast](https://podcasts.google.com/)
 * [iTunes Connect](https://itunesconnect.apple.com/)
