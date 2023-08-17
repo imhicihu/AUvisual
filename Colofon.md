@@ -1,4 +1,4 @@
-## Software y herramientas utilizados ##
+### Software y herramientas utilizados
 
 * Hardware
      - Macbook 15"
@@ -10,7 +10,7 @@
 * Software
      - [Voice Record Pro](https://apps.apple.com/ar/app/voice-record-pro/id546983235): professional voice recorder for the iOS platform. There is an [Android](https://play.google.com/store/apps/details?id=ca.bejbej.voicerecordpro&hl=es) counterpart
      - [Forecast](https://overcast.fm/forecast): The podcast MP3 post-production tool designed, developed, and used by professional podcasters.
-     * ![image](images/4006804565-forecast-screenshot.png)
+  ![image](images/4006804565-forecast-screenshot.png)
      - [Ardour](https://ardour.org/): sound edition multi-platform
      - [Audacity](http://www.audacityteam.org): sound edition. This software provides a feature of "noise reduction".
      - [Wavosaur](http://www.wavosaur.com/): sound edition
@@ -24,7 +24,7 @@
 * Herramientas en línea
      - [Podcast publisher tools](https://search.google.com/devtools/podcast/preview): This tool verifies that a podcast is available in Google Podcasts, and creates a direct link for it.
      - ~~[libs.garden](https://libs.garden/): technical libraries searcher~~
-     - Revisar [Podcasts providers](https://bitbucket.org/imhicihu/auvisual/src/master/Podcasts_providers.md)   
+     - Revisar [Podcasts providers](Podcasts_providers.md)   
 * Documentación
      - [Sign language](https://www.w3.org/WAI/media/av/sign-languages/)
      - [Transcripts](https://www.w3.org/WAI/media/av/transcripts/#checklist)
@@ -32,6 +32,6 @@
      - [Making Audio and Video Media Accessible](https://www.w3.org/WAI/media/av/)
      - [Web-Based Media Player Accessibility Comparison Table](http://kensgists.github.io/apt/)
      
-## Legales ##
+### Legales
 
 * Todas las marcas registradas son propiedad de sus respectivos propietarios.
