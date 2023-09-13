@@ -8,13 +8,12 @@
 ![graphics](images/3536431956-sound_editor.jpg)
 ![exporting_session.jpg](images/1980281232-export_waves.jpg)
 
-### What is this repository for? ###
+### What is this repository for?
 
 * Quick summary
     - Strategies, insights and learnings in audio & visual communications
-* Version 1.01
 
-### How do I get set up? ###
+### How do I get set up?
 
 * Summary of set up
     - In the beginning, you can check our _colophon_ (see below): lots of (open source) tools to convert analog data (_human voice_) to the digital realm
@@ -30,27 +29,15 @@
 ![audacity.jpg](images/1684545415-1801032688-cartoon.jpg)
 ![podcast_producer.jpg](https://bitbucket.org/repo/48bkkAE/images/2429225702-gis.jpg)
 
-### Changelog ###
+### Changelog
 
 * Please check the [Commits](https://github.com/imhicihu/AUvisual/commits/master) section for the current status
-
-### Contribution guidelines ###
-
-* Writing tests
-    - There is no tests (at least) from inside this repository. Since all the material produced will be abroad this repo
-* Code review
-    - There is no code to examine or verify.
-
-### Related repositories ###
-
-* Some repositories linked with this project:
-     - [Streaming](https://bitbucket.org/imhicihu/streaming/src/master)
 
 ### Code of Conduct
 
 * Please, check our [Code of Conduct](Code_of_conduct.md)
 
-### Legal ###
+### Legal
 
 * All trademarks are the property of their respective owners.
 
