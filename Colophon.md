@@ -6,7 +6,6 @@
 	 - ~~Dell notebook 15"~~
      - Satechi Type-C Multiport Adapter (hub USB & Network access)
      - _Hosting_: Consorcio Saavedra 15
-     - _Bandwidth_: Consorcio Saavedra 15
 * Software
      - Recording
           - [Voice Record Pro](https://apps.apple.com/ar/app/voice-record-pro/id546983235): professional voice recorder for the iOS platform. There is an [Android](https://play.google.com/store/apps/details?id=ca.bejbej.voicerecordpro&hl=es) counterpart
