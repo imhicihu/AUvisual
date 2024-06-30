@@ -1,3 +1,6 @@
+### Podcasts providers
+<br>
+
 | Provider                  | [PodBean](https://www.podbean.com/) (free account)           | [iVoox](https://www.ivoox.com/) (free account) | [Soundcloud Basic](https://checkout.soundcloud.com/pro?ref=t992) (free account) | [TuneIn](https://tunein.com/podcasters/) | [Buzzsprout](https://www.buzzsprout.com/) (free account) | [Podomatic](https://www.podomatic.com/) (free account) | [Anchor](https://anchor.fm/) (free account)                  |
 | ------------------------- | ------------------------------------------------------------ | ---------------------------------------------- | ------------------------------------------------------------ | ---------------------------------------- | -------------------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------------ |
 | *Storage*                 | 5 hours total                                                | Unlimited                                      | 3 hours uploads (total)                                      |                                          | 2 hours monthly, hosted for 90 days. Ads embedded        | up to 6 hours (500Mb). No expiration                   | Unlimited storage. No expiration.                            |
