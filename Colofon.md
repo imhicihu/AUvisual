@@ -23,7 +23,6 @@
      - [VideoJs](https://videojs.com/)
 * Herramientas en línea
      - [Podcast publisher tools](https://search.google.com/devtools/podcast/preview): This tool verifies that a podcast is available in Google Podcasts, and creates a direct link for it.
-     - ~~[libs.garden](https://libs.garden/): technical libraries searcher~~
      - Revisar [Podcasts providers](Podcasts_providers.md)   
 * Documentación
      - [Sign language](https://www.w3.org/WAI/media/av/sign-languages/)
