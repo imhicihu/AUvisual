@@ -1,3 +1,4 @@
+### Procedimiento
 * Ingresar a [Podbean](https://www.podbean.com/)
 * Ir a `Configuración` –> `General` –> `Feed Itunes` = `Rss feed`
 * Copiar dicho enlace correspondiente al `RSS Feed`
