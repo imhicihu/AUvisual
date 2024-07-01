@@ -2,9 +2,9 @@
 
 * Hardware
      - Macbook 15"
-     - Macbook Air 11" (_not eligible for data-table-grid cleaning_)
+     - Macbook Air 11"
      - Macbook 13"
-     - Satechi Type-C Multiport Adapter (hub USB & Network access)
+     - Satechi Type-C Multiport Adapter
      - _Hosting_: Consorcio Saavedra 15
 
 * Software
@@ -16,13 +16,13 @@
      - [Wavosaur](http://www.wavosaur.com/): edición de sonido
      - [Acoustica Basic Edition](https://acondigital.com/products/acoustica-audio-editor/): edición de sonido
      - [Audiotool](https://www.audiotool.com/): edición de sonido
-     - [Blue Cat's FreqAnalyst](https://www.bluecataudio.com/Products/Bundle_FreewarePack/): frequency audio analysis
-     - [Blue Cat's Triple EQ](https://www.bluecataudio.com/Products/Bundle_FreewarePack/): audio equalization
-     - [Decibel X:dB Sound Level Meter](https://apps.apple.com/us/app/decibel-10-noise-db-meter-fft-frequency-analyzer/id448155923): It turns your iOS device into a professional sound level meter, precisely measures the sound pressure level (SPL) all around you. There is an [Android](https://play.google.com/store/apps/details?id=com.skypaw.decibel&hl=es_AR) counterpart
-     - [AbePlayer](https://ableplayer.github.io/ableplayer/): video accesibility tool
-     - [VideoJs](https://videojs.com/)
+     - [Blue Cat's FreqAnalyst](https://www.bluecataudio.com/Products/Bundle_FreewarePack/): análisis de las frecuencias sonoras
+     - [Blue Cat's Triple EQ](https://www.bluecataudio.com/Products/Bundle_FreewarePack/): equalizador de sonido
+     - [Decibel X:dB Sound Level Meter](https://apps.apple.com/us/app/decibel-10-noise-db-meter-fft-frequency-analyzer/id448155923): medidor de nivel sonoro para dispositivos iOS. Consulte la versión para dispositivos [Android](https://play.google.com/store/apps/details?id=com.skypaw.decibel&hl=es_AR)
+     - [AbePlayer](https://ableplayer.github.io/ableplayer/): herramienta de análisis del nivel de accesibilidad de un video
+     - [VideoJs](https://videojs.com/): reproductor de video HTML5
 * Herramientas en línea
-     - [Podcast publisher tools](https://search.google.com/devtools/podcast/preview): This tool verifies that a podcast is available in Google Podcasts, and creates a direct link for it.
+     - [Podcast publisher tools](https://search.google.com/devtools/podcast/preview): verifica que un podcast está disponible en Google Podcasts para luego crear un enlace directo (`URL`) del mismo
      - Revisar [Podcasts providers](Podcasts_providers.md)   
 * Documentación
      - [Sign language](https://www.w3.org/WAI/media/av/sign-languages/)
