@@ -8,14 +8,14 @@
      - _Hosting_: Consorcio Saavedra 15
 
 * Software
-     - [Voice Record Pro](https://apps.apple.com/ar/app/voice-record-pro/id546983235): professional voice recorder for the iOS platform. There is an [Android](https://play.google.com/store/apps/details?id=ca.bejbej.voicerecordpro&hl=es) counterpart
-     - [Forecast](https://overcast.fm/forecast): The podcast MP3 post-production tool designed, developed, and used by professional podcasters.
+     - [Voice Record Pro](https://apps.apple.com/ar/app/voice-record-pro/id546983235): grabador de voz para dispositivos iOS. Consulte la versión para dispositivos [Android](https://play.google.com/store/apps/details?id=ca.bejbej.voicerecordpro&hl=es)
+     - [Forecast](https://overcast.fm/forecast): herramienta de post-producción para archivos en formato `.mp3` diseñado, desarrollado y usado por los podcasters profesionales
   ![image](images/4006804565-forecast-screenshot.png)
-     - [Ardour](https://ardour.org/): sound edition multi-platform
-     - [Audacity](http://www.audacityteam.org): sound edition. This software provides a feature of "noise reduction".
-     - [Wavosaur](http://www.wavosaur.com/): sound edition
-     - [Acoustica Basic Edition](https://acondigital.com/products/acoustica-audio-editor/): sound edition
-     - [Audiotool](https://www.audiotool.com/): sound edition
+     - [Ardour](https://ardour.org/): edición de sonido multi-plataforma
+     - [Audacity](http://www.audacityteam.org): edición de sonido. Este software ofrece la función de "reducción de sonido ambiental"
+     - [Wavosaur](http://www.wavosaur.com/): edición de sonido
+     - [Acoustica Basic Edition](https://acondigital.com/products/acoustica-audio-editor/): edición de sonido
+     - [Audiotool](https://www.audiotool.com/): edición de sonido
      - [Blue Cat's FreqAnalyst](https://www.bluecataudio.com/Products/Bundle_FreewarePack/): frequency audio analysis
      - [Blue Cat's Triple EQ](https://www.bluecataudio.com/Products/Bundle_FreewarePack/): audio equalization
      - [Decibel X:dB Sound Level Meter](https://apps.apple.com/us/app/decibel-10-noise-db-meter-fft-frequency-analyzer/id448155923): It turns your iOS device into a professional sound level meter, precisely measures the sound pressure level (SPL) all around you. There is an [Android](https://play.google.com/store/apps/details?id=com.skypaw.decibel&hl=es_AR) counterpart
