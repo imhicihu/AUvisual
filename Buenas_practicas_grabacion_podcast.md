@@ -20,14 +20,14 @@
 		- en Ubuntu (Linux) utilice esta [prueba](https://www.onlinemictest.com/es/configuracion-del-microfono/ubuntu/)
 	
 #### Software
-* Deshabilite _temporalmente_ operaciones en 2do plano: defragmentación de discos, escaneado de virus, etc.
-* Deshabilite _temporalmente_ todas las notificaciones del sistema, alarmas, correos electrónicos, redes sociales, mensajería instantánea, etc. sea en su dispositivo móvil o computadora portátil/escritorio:
+* deshabilite _temporalmente_ operaciones en 2do plano: defragmentación de discos, escaneado de virus, etc.
+* deshabilite _temporalmente_ todas las notificaciones del sistema, alarmas, correos electrónicos, redes sociales, mensajería instantánea, etc. sea en su dispositivo móvil o computadora portátil/escritorio:
 	* en ambientes _Windows_ siga este [procedimiento](https://helpdeskgeek.com/how-to/prevent-popup-notifications-from-appearing-on-your-windows-desktop/)
 	* en ambientes _Mac_, instale este software: [Muzzle](https://muzzleapp.com/)
-* Deshabilite _temporalmente_ la opción de compartir archivos, carpetas, impresoras
-* Deshabilite _temporalmente_ la opción de compartir su conexión de internet
-* Deshabilite _temporalmente_ cualquier actualización de definiciones de antivirus, actualizaciones de Microsoft Windows, dependencias de Linux, etc.
-* Cierre todos los programas que _estrictamente_ no esté utilizando durante su sesión de grabación de podcast
+* deshabilite _temporalmente_ la opción de compartir archivos, carpetas, impresoras
+* deshabilite _temporalmente_ la opción de compartir su conexión de internet
+* deshabilite _temporalmente_ cualquier actualización de definiciones de antivirus, actualizaciones de Microsoft Windows, dependencias de Linux, etc.
+* cierre todos los programas que _estrictamente_ no esté utilizando durante su sesión de grabación de podcast
 
 #### [Grabación](Recording.md)
 * Tecnología
@@ -40,13 +40,13 @@
 	* si graba su podcast desde un dispositivo móvil, sitúelo frente a su boca, a unos 30 cms en dirección recta
 
 * Personal
-	- si está congestionada su voz, evite o posponga la grabación del podcast
-	- evite cualquier actividad física severa antes de la grabación del podcast
-	- intente grabar su participación en el podcast en una sola toma, tratando de evitar cualquier interrupción: el tono de voz _usualmente_ cambia entre sesiones de grabación
+	* si está congestionada su voz, evite o posponga la grabación del podcast
+	* evite cualquier actividad física severa antes de la grabación del podcast
+	* intente grabar su participación en el podcast en una sola toma, tratando de evitar cualquier interrupción: el tono de voz _usualmente_ cambia entre sesiones de grabación
 	* evite utilizar collares, pulseras, papeles (a modo de _ayuda-memoria_). El movimiento de los mismos quedará registrado (y difíciles de obliterar!)
 	* evite todo sonido intrusivo e intempestivo: deshabilite _temporalmente_ baby calls, teléfonos, timbres, alarmas de reloj, etc.
 	* Grabe su participación en el podcast desde un _espacio_ con el menor nivel de ruido ambiental. Para conocerlo, instale [Decibel X:dB Sound Level Meter](https://apps.apple.com/us/app/decibel-10-noise-db-meter-fft-frequency-analyzer/id448155923) o [NIOSH Sound Level Meter 4+](https://apps.apple.com/us/app/niosh-sound-level-meter/id1096545820) para dispositivos iOS. Para teléfonos Android, instale esta [aplicación](https://play.google.com/store/apps/details?id=com.skypaw.decibel&hl=es_AR). Una vez instalada la aplicación, mida su nivel de ruido. Luego, confróntelo con esta [tabla de contaminación sonora](http://argentinambiental.com/notas/informes/ruido-ambiental-efectos-hombre/#:~:text=El%20Nivel%20de%20Ruido%20M%C3%A1ximo,auditivo%20acumulativo%20y%20no%20reversible.). _The less, the better_
 	* una vez que empezó la grabación (personal o entrevista), cuente mentalmente hasta `3`. Después inicie su _speech_
 
 #### Legal ####
-* All trademarks are the property of their respective owners.
+* Todas las marcas son propiedad de sus respectivos dueños
