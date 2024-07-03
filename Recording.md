@@ -33,4 +33,4 @@
     * Envíe dicho registro a este correo electrónico: `****@gmail.com`
     
 ### Speech synthesis
-* ![Speech_synthesis](images/122964169-sound_routing.jpg)
+![Speech_synthesis](images/122964169-sound_routing.jpg)
