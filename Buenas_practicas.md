@@ -1,4 +1,4 @@
-### Nombre del podcast
+j### Nombre del podcast
 * ¿Qué nombre tendrá el podcast (institucional)?
 * ¿Qué tipo de nombre tendrán los episodios?
 * ¿Seguirán una lógica el nombre de los episodios?
@@ -30,7 +30,7 @@
     - especificación del espacio cromático: `RGB`
 	- adaptar los archivos gráficos a las modalidades `Light` & `dark mode`
 * crear contenido afín para promocionar los podcasts en redes sociales
-* chequear [Branding](https://github.com/imhicihu/Branding)
+* consultar nuestro [Branding](https://github.com/imhicihu/Branding/blob/master/logotype_accesibility.md)
 	
 ### Publicidad
 * ~~verificar~~ si se deben agregar segundos al principio o final del podcast para dar lugar a publicidad institucional (ej.: CONICET)
