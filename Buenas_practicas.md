@@ -37,7 +37,7 @@
 * ¿hay alguna normativa (institucional) y legal (ver _Accesibilidad_) respecto al modo de introducir/presentar un podcast?
 
 ### Metadatos
-* Incrustar metadatos en el archivo sonoro / visual. Este ejercicio mejora su indexación en los buscadores, tanto más en los repositorios & bibliotecas digitales, amén de cumplir con normativas de registro de marcas & derechos de autor
+* incrustar metadatos en el archivo sonoro / visual. Este ejercicio mejora su indexación en los buscadores, tanto más en los repositorios & bibliotecas digitales, amén de cumplir con normativas de registro de marcas & derechos de autor
 * suministrar recursos, gráficos, fotos, enlaces que son mencionados en el podcast
 
 ### Accesibilidad
@@ -45,7 +45,7 @@
 
 ### Edición
 * Agregar `intro` y `cierre` a modo de introducción y clausura institucional en cada uno de los podcasts
-* Procesar `hisses` & `noise reduction`
+* Procesar [hisses](https://en.wikipedia.org/wiki/Sibilant) & [noise reduction](https://en.wikipedia.org/wiki/Noise_reduction)
 * [Normalizar](https://apps.apple.com/us/app/the-levelator/id1493326487?mt=12) el nivel de sendos canales de audio
 * Exportar como `mp3`- `192 kbps`
 
