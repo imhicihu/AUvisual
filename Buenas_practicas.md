@@ -1,4 +1,4 @@
-j### Nombre del podcast
+### Nombre del podcast
 * ¿Qué nombre tendrá el podcast (institucional)?
 * ¿Qué tipo de nombre tendrán los episodios?
 * ¿Seguirán una lógica el nombre de los episodios?
