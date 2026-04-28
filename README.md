@@ -6,7 +6,7 @@
 ![internaluse-green](images/3847436881-internal_use_stable.png)
 ![issues-open](images/2944199103-issues_open.png)
 
-# RATIONALE #
+# Rationale / [Motivación](LEEME.md) #
 * This repo collects technological tools and human insights inside an internal effort to produce, generate audiovisual communications to the community
 * This repo is a living document that will grow and adapt over time
 ![graphics](images/3536431956-sound_editor.jpg)
