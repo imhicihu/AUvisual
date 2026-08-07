@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="images/header.png?raw=true" alt="Logotipo de AUVisual"/>
+</p>
+
+---
+
+![stability-work_in_progress](images/477405737-stability_work_in_progress.png)
+![internaluse-green](images/3847436881-internal_use_stable.png)
+![issues-open](images/2944199103-issues_open.png)
+
 ## Rationale / [Motivación](LEEME.md) #
 * Este repositorio recopila herramientas tecnológicas en el marco de una iniciativa interna destinada a producir y generar comunicaciones audiovisuales para la comunidad
 * Este repositorio es un documento en constante evolución que irá creciendo y adaptándose con el tiempo
