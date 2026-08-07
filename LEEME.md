@@ -24,7 +24,7 @@
 * Resumen de la configuración
     - Para empezar, puedes consultar nuestro _colofón_ (vea más abajo): hay diversas herramientas (de código abierto) para convertir datos analógicos (_la voz humana_) al ámbito digital
 * Dependencias
-    - Muchas [herramientas](Colophon.md) requieren numerosas dependencias. No existe una normativa universal que se aplique a todas
+    - Muchas [herramientas](Colofon.md) requieren numerosas dependencias. No existe una normativa universal que se aplique a todas
 * Configuración de la base de datos
     - No hay ninguna base de datos para [CRUD](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete)
 * Instrucciones de implementación
