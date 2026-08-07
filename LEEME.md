@@ -31,7 +31,7 @@
     - Consulta nuestras [Buenas prácticas](Buenas_practicas.md) y [Buenas prácticas en la grabación de podcasts](Buenas_practicas_grabacion_podcast.md)
     - Consulta nuestras [cuestiones de seguridad y privacidad](security_privacy_issues.md)
 ![audacity.jpg](images/1684545415-1801032688-cartoon.jpg)
-![podcast_producer.jpg](https://bitbucket.org/repo/48bkkAE/images/2429225702-gis.jpg)
+![podcast_producer.jpg](images/2429225702-gis.jpg)
 
 ### Registro de cambios
 
