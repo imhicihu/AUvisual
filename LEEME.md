@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/header.png?raw=true" alt="Logotipo de AUVisual"/>
+  <img src="images/header.png?raw=true" alt="Logotipo de AUVisual" weight="350" height="350"/>
 </p>
 
 ---
