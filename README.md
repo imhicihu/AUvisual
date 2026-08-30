@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/header.png?raw=true" alt="Logotipo de AUVisual"/>
+  <img src="images/header.png?raw=true" alt="Logotipo de AUVisual" weight="350" height="350"/>
 </p>
 
 ---
@@ -8,7 +8,7 @@
 ![internaluse-green](images/3847436881-internal_use_stable.png)
 ![issues-open](images/2944199103-issues_open.png)
 
-## Rationale / [Motivación](LEEME.md) #
+## Rationale / [Motivación](LEEME.md)
 * This repo collects technological tools and human insights inside an internal effort to produce, generate audiovisual communications to the community
 * This repo is a living document that will grow and adapt over time
 ![graphics](images/3536431956-sound_editor.jpg)
@@ -47,6 +47,6 @@
 
 * All trademarks are the property of their respective owners
 
-### License ###
+### License
 
 * The content of this project itself is licensed under the ![MIT Licence](https://bitbucket.org/repo/ekyaeEE/images/2049852260-MIT-license-green.png)
